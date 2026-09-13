@@ -1,0 +1,976 @@
+{
+  "id": "padron-es-2015-2020",
+  "version": "2026-09-11",
+  "object": {
+    "label": "Condiciones de acceso e inscripción al padrón municipal"
+  },
+  "scope": {
+    "territory": "España",
+    "period": {
+      "from": 2015,
+      "to": 2020
+    },
+    "apparatus_types": [
+      "administracion"
+    ],
+    "documents": [
+      "BOE-A-2015-3109",
+      "BOE-A-2020-4784"
+    ],
+    "note": "Corpus documental compuesto por las versiones consolidadas consultadas de BOE-A-2015-3109 (última modificación: 02 de mayo de 2020; posteriormente derogada) y BOE-A-2020-4784 (última modificación: 08 de febrero de 2023). El intervalo 2015-2020 identifica las resoluciones seleccionadas y no una fotografía normativa estricta en dos fechas. El campo material excede esta delimitación documental."
+  },
+  "fragments": [
+    {
+      "id": "pad2015_a01",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "1. Consideraciones generales. Las inscripciones en el Padrón se realizarán teniendo en cuenta las siguientes consideraciones generales: 1. El Padrón municipal es el registro administrativo donde constan los vecinos de un municipio. Sus datos constituyen prueba de la residencia en el municipio y del domicilio habitual en el mismo. Las certificaciones que de dichos datos se expidan tendrán carácter de documento público y fehaciente para todos los efectos administrativos.",
+        "location": "apartado 1, punto 1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a02",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "2. Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio en el que resida habitualmente. Quien viva en varios municipios, o en varios domicilios dentro del mismo municipio, deberá inscribirse únicamente en el que habite durante más tiempo al año.",
+        "location": "apartado 1, punto 2",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a03",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "3. Los menores de edad no emancipados y los mayores incapacitados tendrán la misma vecindad que los padres que tengan su guarda o custodia o, en su defecto, de sus representantes legales, salvo autorización por escrito de éstos para residir en otro domicilio o municipio.",
+        "location": "apartado 1, punto 3",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a08",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "8. El Ayuntamiento podrá comprobar la veracidad de los datos consignados por los vecinos, exigiendo al efecto la presentación de los documentos que acrediten su identidad y el domicilio en el municipio, que se definen en los apartados correspondientes de esta Resolución.",
+        "location": "apartado 1, punto 8",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a09",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "9. Con carácter general, siempre que un ciudadano solicite el alta o la modificación de cualquiera de sus datos en el Padrón de un municipio aportando los documentos necesarios para probar su identidad, representación en su caso, y residencia real en el mismo, se procederá a realizar su inscripción en el Padrón sin más trámite, siendo efectiva desde ese momento y sin que sea posible otorgarle efectos retroactivos.",
+        "location": "apartado 1, punto 9",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a10",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "10. Cuando existan indicios que hagan dudar de que se vaya a establecer la residencia en el municipio, o de alguno de los datos declarados por el ciudadano, antes de proceder al alta, o a la modificación de datos en el Padrón, el Ayuntamiento, presentada la correspondiente solicitud por parte del interesado, ordenará los actos de trámite necesarios para comprobar la veracidad de los datos consignados en la solicitud, dictando la correspondiente resolución.",
+        "location": "apartado 1, punto 10",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a12",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "13. Si el Ayuntamiento no notifica dentro de los tres meses la resolución estimando o desestimando la solicitud, operará el silencio positivo y el ciudadano quedará a todos los efectos empadronado en ese municipio (art. 43 de la Ley 30/1992), desde la fecha de su solicitud.",
+        "location": "apartado 1, punto 13",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a15",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "2.1 documentación acreditativa de la identidad. Los datos obligatorios de identificación de la inscripción en el Padrón municipal son nombre y apellidos, sexo, nacionalidad, lugar y fecha de nacimiento y número del documento de identificación. Estos datos se acreditarán para cualquier tramitación en el Padrón a través del documento de identidad que se establece en la letra f) del artículo 16.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, así como en los contemplados en los párrafos siguientes, que en todo caso deberán estar en vigor, no siendo válido un documento caducado, salvo que se aporte la solicitud de renovación del mismo, y sin necesidad de visado, salvo la excepción que se cita en el mencionado artículo. Respecto al número del documento de identificación varía en función de que los inscritos sean españoles o extranjeros. Para los primeros tal número es el del Documento Nacional de Identidad (DNI). En el caso de los extranjeros depende de si se trata de: – Nacionales de estados miembros de la Unión Europea, de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo (1) o de Estados a los que, en virtud de un convenio internacional se extienda el régimen jurídico previsto para los ciudadanos de los Estados mencionados: (1) Noruega, Islandia, Liechtestein y Suiza. El número que debe figurar en la inscripción padronal, según la Ley 7/1985, es el de la tarjeta de residencia en vigor expedida por las autoridades españolas o, en su defecto, el del documento acreditativo de la identidad o del pasaporte en vigor expedido por las autoridades del país de procedencia. Sin embargo, desde la entrada en vigor del Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo, que impone a éstos la obligación de inscribirse en el Registro Central de Extranjeros si pretenden permanecer o fijar su residencia en España por un período superior a tres meses, la referencia a la tarjeta de residencia en vigor del artículo 16.2.f) (que ha dejado de expedirse) deberá entenderse realizada al Número de Identificación de Extranjero que consta en el Certificado de Registro de Ciudadano de la Unión expedido en virtud de lo previsto en el artículo 7 del citado Real Decreto (2). (2) Artículo 7 RD 240/2007. Residencia superior a tres meses de ciudadanos de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo: 5. Los nacionales de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo estarán obligados a solicitar personalmente ante la oficina de extranjeros de la provincia donde pretendan permanecer o fijar su residencia o, en su defecto, ante la Comisaría de Policía correspondiente, su inscripción en el Registro Central de Extranjeros. Dicha solicitud deberá presentarse en el plazo de tres meses contados desde la fecha de entrada en España, siéndole expedido de forma inmediata un certificado de registro en el que constará el nombre, nacionalidad y domicilio de la persona registrada, su número de identidad de extranjero, y la fecha de registro. 6. Junto a la solicitud de inscripción, deberá presentarse el pasaporte o documento nacional de identidad válido y en vigor del solicitante, así como la documentación acreditativa del cumplimiento de los requisitos exigibles para la inscripción establecidos en este artículo. En el supuesto de que el pasaporte o el documento nacional de identidad estén caducados, deberá aportarse copia de éstos y de la solicitud de renovación. No obstante, dado que la finalidad de la documentación que se recoge en el artículo 16.2.f) de la Ley 7/1985 es la de acreditar claramente la identidad del inscrito, se considera que, como el certificado no incluye la fotografía del interesado y no es válido para acreditar la identidad, para poder realizar la inscripción padronal se deberá acompañar dicho certificado de alguno de los documentos acreditativos de la identidad a que se refiere el propio artículo 16.2.f), esto es, documento acreditativo de la identidad o pasaporte en vigor expedido por las autoridades del país de procedencia. En estos supuestos los Ayuntamientos podrán hacer constar en su base padronal tanto el número de identificación de extranjero como el del documento utilizado para acreditar su identidad. Únicamente cuando no se disponga de dicho certificado se consignaría en la inscripción padronal el número que figure en el documento acreditativo de la identidad correspondiente. – Nacionales de Estados distintos de los anteriores: El número que debe figurar en la inscripción padronal, según la Ley 7/1985, es el número de identificación de extranjero que conste en documento, en vigor, expedido por las autoridades españolas o, en su defecto, por no ser titulares de éstos, el número del pasaporte en vigor expedido por las autoridades del país de procedencia, salvo que, por virtud de Tratado o Acuerdo Internacional, disfruten de un régimen específico de exención de visado en materia de pequeño tráfico fronterizo con el municipio en el que se pretenda el empadronamiento, en cuyo caso, se exigirá el correspondiente visado (salvedad referida a aquellos municipios que hacen frontera con países que no forman parte del «Espacio de Schengen», como es el caso de Ceuta y Melilla). Por tanto, el criterio general es que deben presentar un documento en vigor expedido por las autoridades españolas (preferentemente la tarjeta de identidad de extranjero) en el que figura el NIE (número de identificación de extranjero) y, en el caso de no disponer de tarjeta de identidad de extranjero, se consignará el número del pasaporte. En el supuesto de que el extranjero hubiese solicitado inicialmente la inscripción padronal identificándose mediante el pasaporte, y posteriormente se presentara con una tarjeta de identidad de extranjero o esta sea comunicada por el INE, debería modificarse el número de identificación para ajustarlo a esta última. El objetivo de exigir documentación identificativa al solicitar la inscripción en el Padrón es exclusivamente comprobar que los datos de identificación (nombre, apellidos, número del documento, nacionalidad, sexo y lugar y fecha de nacimiento) son correctos, con independencia de la situación legal del extranjero en España. Al Ayuntamiento no le corresponde realizar ningún control sobre la legalidad o ilegalidad de la residencia en territorio español de ninguno de sus vecinos",
+        "location": "apartado 2.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a16",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "2.2.1 Representación legal: La representación de los menores de edad e incapacitados se rige a efectos padronales por las normas generales del Derecho Civil. De conformidad con lo dispuesto en el art. 162 del Código Civil, los padres que ostenten la patria potestad tienen la representación legal de sus hijos menores no emancipados, por lo que en principio bastará con la presentación del Libro de Familia o Certificado de nacimiento para reputar válida dicha representación. No obstante, en los supuestos de separación o divorcio, en virtud de lo establecido por el artículo 156 del Código Civil, la patria potestad se ejercerá por aquel con quien el hijo conviva por lo que, conforme a lo previsto, asimismo, en el artículo 54.2 del Reglamento de Población y Demarcación Territorial de las Entidades Locales, las inscripciones en el Padrón, o modificaciones de sus datos, se instarán en exclusiva por el progenitor que ostente la guarda y custodia, lo que se deberá acreditar mediante copia de la correspondiente resolución judicial. De la misma manera, en los supuestos de tutela, acogimiento, etc. se deberá aportar copia de la resolución judicial. Cuando se solicite la inscripción o cambio de domicilio de un menor con uno solo de sus progenitores, junto con la cumplimentación de la hoja padronal o formularios para que se notifiquen al Ayuntamiento los datos de inscripción y la aportación del Libro de Familia para reputar válida la representación, se debe exigir la firma de ambos progenitores (siempre y cuando la guarda y custodia del menor no esté confiada en exclusiva al que realiza la solicitud). La firma del otro progenitor no incluido en la hoja padronal podrá recogerse en la misma, si estuviera habilitada para ello, o en una autorización por escrito que acompañe a la hoja padronal. Cuando excepcionalmente no se disponga de la firma de ambos progenitores deberá aportarse una declaración responsable, firmada por el progenitor que realiza la solicitud, de tener la guarda y custodia del menor y capacidad legal suficiente para hacer la inscripción o el cambio de domicilio en el Padrón municipal",
+        "location": "apartado 2.2.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a18",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "2.3 Documentación acreditativa del domicilio de residencia. El Padrón es el registro administrativo que pretende reflejar el domicilio donde residen las personas que viven en España. Su objetivo es, por tanto, dejar constancia de un hecho, por lo que, en principio, no debe resultar distorsionado ni por los derechos que puedan o no corresponder al vecino para residir en ese domicilio, ni por los derechos que podrían derivarse de la expedición de una certificación acreditativa de aquel hecho. En consonancia con este objetivo, la norma fundamental que debe presidir la actuación municipal de gestión del Padrón es la contenida en el artículo 17.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, donde dice que los Ayuntamientos realizarán las actuaciones y operaciones necesarias para mantener actualizados sus Padrones de modo que los datos contenidos en éstos concuerden con la realidad. Por ello, las facultades atribuidas al Ayuntamiento en el artículo 59.2 del Reglamento de Población y Demarcación Territorial de las Entidades Locales para exigir la aportación de documentos a sus vecinos tienen como única finalidad «comprobar la veracidad de los datos consignados», como textualmente señala el propio artículo. En consecuencia, tan pronto como el gestor municipal adquiera la convicción de que los datos que constan en la inscripción padronal se ajustan a la realidad, deja de estar facultado para pedir al vecino ulteriores justificantes que acrediten aquel hecho. Y, en concreto, la posibilidad de que el Ayuntamiento solicite del vecino «el título que legitime la ocupación de la vivienda» (art. 59.2 del Reglamento de Población y Demarcación Territorial de las Entidades Locales) no atribuye a las Administraciones Locales ninguna competencia para juzgar cuestiones de propiedad, de arrendamientos urbanos o, en general, de naturaleza jurídico-privada, sino que tiene por única finalidad servir de elemento de prueba para acreditar que, efectivamente, el vecino habita en el domicilio que ha indicado. Por ello, este título puede ser: – Título de propiedad (Escritura, contrato de compraventa, Nota del Registro, comprobación de bases de datos municipales donde conste dicha propiedad, etc.) – Contrato vigente de arrendamiento de vivienda para uso de residencia habitual acompañado del último recibo de alquiler. El Ayuntamiento tiene la potestad de aceptar otros documentos, hechas las comprobaciones que considere oportunas (suministros de luz, agua, etc.). Asimismo, el gestor municipal podrá comprobar por otros medios (informe de Policía local, inspección del propio servicio, etc.) que realmente el vecino habita en ese domicilio, y en caso afirmativo inscribirlo en el Padrón",
+        "location": "apartado 2.3",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a19",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "3.1 Empadronamiento en un domicilio en el que ya constan empadronadas otras personas. Cuando un ciudadano solicite su alta en un domicilio en el que ya consten empadronadas otras personas, en lugar de solicitarle que aporte el documento que justifique su ocupación de la vivienda, se le deberá exigir la autorización por escrito de una persona mayor de edad que figure empadronada en ese domicilio.",
+        "location": "apartado 3.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a21",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "3.3 empadronamiento de personas sin domicilio. Como se ha indicado anteriormente, el Padrón debe reflejar el domicilio donde realmente vive cada vecino del municipio y de la misma manera que la inscripción padronal es completamente independiente de las controversias jurídico-privadas sobre la titularidad de la vivienda, lo es también de las circunstancias físicas, higiénico-sanitarias o de otra índole que afecten al domicilio. En consecuencia, las infraviviendas (chabolas, caravanas, cuevas, etc. e incluso ausencia total de techo) pueden y deben figurar como domicilios válidos en el Padrón. Las situaciones más extremas pueden plantear la duda sobre la procedencia o no de su constancia en el Padrón municipal. El criterio que debe presidir esta decisión viene determinado por la posibilidad o imposibilidad de dirigir al empadronado una comunicación al domicilio que figure en su inscripción. En el caso de que sea razonable esperar que esa comunicación llegue a conocimiento del destinatario, se le debe empadronar en esa dirección. La correcta aplicación de este criterio determina, por un lado, que se deba aceptar como domicilio cualquier dirección donde efectivamente vivan los vecinos, y, por otro, que pueda y deba recurrirse a un «domicilio ficticio» en los supuestos en que una persona que carece de techo reside habitualmente en el municipio y sea conocida de los Servicios Sociales correspondientes",
+        "location": "apartado 3.3",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a22",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "3.4 empadronamiento de reclusos. El empadronamiento de reclusos en el municipio en el que se encuentra el centro penitenciario sólo podrá realizarse a petición de los mismos. Admitir el empadronamiento forzoso de los reclusos supondría imponer una pena accesoria a la de prisión, que al no estar expresamente prevista resultaría contraria al artículo 25 de la Constitución Española.",
+        "location": "apartado 3.4",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a25",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "5.1 Expedientes de Alta. Se distinguen tres tipos de inscripción de alta en el Padrón: altas por cambio de residencia, altas por nacimiento y altas por omisión.",
+        "location": "apartado 5.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a30",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "5.1.3 Altas por omisión: Se refieren a inscripciones en el Padrón de personas que viviendo habitualmente en el municipio no figuran inscritas en el mismo (por motivos diversos: no se inscribieron cuando llegaron al municipio, han sido dados de baja en procedimientos de baja por caducidad, baja de oficio, etc.). Pueden ser a solicitud del habitante o declaradas de oficio por el Ayuntamiento.",
+        "location": "apartado 5.1.3",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a32",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "5.1.3.2 Altas de oficio: Los Ayuntamientos declararán de oficio la inscripción en su Padrón como vecinos a las personas que vivan habitualmente en su término municipal y no figuren inscritas en el mismo, al amparo del artículo 73 del Reglamento de Población y Demarcación Territorial de las Entidades Locales. Para decretar un alta de oficio será necesaria previamente la notificación al interesado de la incoación del expediente, que dispondrá del plazo que se señale, no superior a quince días ni inferior a diez, para manifestar si está o no de acuerdo con el alta pudiendo, en este último caso, presentar las justificaciones que estime pertinentes al objeto de acreditar que no reside en el municipio la mayor parte del año y que está empadronado, o procede a empadronarse en el municipio de su residencia o, en su caso, en el Padrón de españoles residentes en el extranjero, a través del correspondiente Registro de Matrícula Consular. Si el interesado manifiesta de forma expresa su conformidad con el alta, deberá indicar por escrito el municipio en que consta inscrito, o en su caso, si figura en el Padrón de españoles residentes en el extranjero. Si no figura o desconoce figurar empadronado lo hará constar así en la correspondiente declaración. En los casos en que el interesado manifieste su disconformidad con el alta o no efectúe alegación alguna una vez transcurrido el plazo señalado al efecto, el alta de oficio sólo podrá llevarse a cabo de acuerdo con los trámites establecidos reglamentariamente. Dependiendo de si se conoce o no el municipio de inscripción anterior el alta se remitirá al INE en los ficheros de variaciones mensuales como alta por cambio de residencia o alta por omisión",
+        "location": "apartado 5.1.3.2",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a33",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "5.2 Expedientes de Baja. Las bajas en el Padrón pueden estar ocasionadas por los siguientes motivos: cambio de residencia, defunción, duplicado, inscripción indebida y caducidad.",
+        "location": "apartado 5.2",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a34",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "5.2.1 Bajas por cambio de residencia: Serán bajas por cambio de residencia las de aquellas personas empadronadas en un municipio que trasladan su residencia a otro municipio o al extranjero. Bajo este epígrafe se consideran también las bajas por expulsión de extranjeros ejecutadas y de retornados voluntarios a su país de origen. Según lo establecido en el artículo 70 del Reglamento de Población y Demarcación Territorial de las Entidades Locales, toda persona que cambie de municipio de residencia deberá solicitar por escrito su alta en el Padrón del municipio de destino. De acuerdo con lo establecido en el apartado relativo a las altas por cambio de residencia, la comunicación del alta será remitida por el Instituto Nacional de Estadística al municipio de procedencia, mediante el envío de las incidencias correspondientes en los ficheros de devolución mensual, tras cuya recepción y en virtud del citado artículo 70 los Ayuntamientos estarán obligados a dar la baja en sus Padrones sin más trámite. Cuando como consecuencia de estas comunicaciones causen baja los mayores de edad empadronados en un domicilio, quedando inscritos solos menores de 16 años, el Ayuntamiento donde se produce dicha baja comunicará esta circunstancia al de alta, con el fin de comprobar que no se trata de ningún error administrativo. Una vez confirmado este extremo, realizará las comprobaciones oportunas y, si hubiera indicios de que no residen en el domicilio de inscripción, iniciará el correspondiente expediente de baja de oficio por inscripción indebida. En el caso de que sea un ciudadano español el que traslada su residencia al extranjero deberá solicitar el alta en el Registro de Matrícula de la Oficina o Sección Consular de destino, que la remitirá, a través del Ministerio de Asuntos Exteriores y de Cooperación, al Instituto Nacional de Estadística, el cual le dará de alta en el Padrón de españoles residentes en el extranjero y trasladará la baja al municipio de procedencia, donde sin más trámite, una vez localizada en el Padrón, se dará de baja al interesado. La fecha de la baja por cambio de residencia será la misma que la fecha del alta en el Padrón o Registro de Matrícula de la Oficina o Sección Consular del municipio o país de destino, respectivamente. Esta fecha se incluirá en las comunicaciones del Instituto Nacional de Estadística. No se realizarán inscripciones de baja por cambio de residencia a petición de los interesados, salvo que se trate de extranjeros que abandonen España, o de sus hijos, aunque sean españoles, menores de edad (en este último caso en virtud de lo previsto en el artículo 54.2 del Reglamento de Población y Demarcación Territorial de las Entidades Locales), sino que deberán ser siempre a resultas de una comunicación de la inscripción en el Padrón de otro municipio o en el Registro de Matrícula de la Oficina o Sección Consular del país de destino. También se repercutirán como bajas por cambio de residencia las expulsiones de extranjeros ejecutadas comunicadas por la Dirección General de la Policía, canalizadas a través del Instituto Nacional de Estadística",
+        "location": "apartado 5.2.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a43",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "5.2.4.1 Bajas de oficio: Según el artículo 72 del Reglamento de Población y Demarcación Territorial de las Entidades Locales, el Ayuntamiento dará de baja de oficio, por inscripción indebida, a quienes figuren empadronados incumpliendo los requisitos establecidos en el artículo 54 del citado Reglamento, una vez comprobada esta circunstancia en el correspondiente expediente en el que se dará audiencia al interesado. Para ello el Ayuntamiento notificará al afectado el requisito incumplido y le hará saber la incoación de oficio del expediente para proceder a darle de baja en el Padrón de su municipio por no residir habitualmente en el mismo y que, contra esta presunción, el interesado podrá, en el plazo que se señale, no superior a quince días ni inferior a diez, manifestar si está o no de acuerdo con la baja pudiendo, en este último caso, alegar y presentar los documentos y justificaciones que estime pertinentes, al objeto de acreditar que es en este municipio en el que reside durante más tiempo al año, en el caso de vivir en varios municipios. Si el interesado manifiesta de forma expresa su conformidad con la baja se procederá a la misma y comunicará el municipio o país en el que vive habitualmente que se incluirá en el correspondiente expediente. Si el afectado es un ciudadano extranjero que manifiesta vivir habitualmente en otro país, se dará de baja por cambio de residencia sin más trámite",
+        "location": "apartado 5.2.4.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a52",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "2. El INE localizará en su base estos extranjeros y deducirá, por exclusión, cuáles son los extranjeros no comunitarios sin autorización de residencia de larga duración (ENCSARP). A los efectos de consideración de ciudadanos comunitarios también se incluyen los ciudadanos de Estados parte del Acuerdo sobre el Espacio Económico Europeo (Noruega, Islandia y Liechtenstein) así como de Suiza.",
+        "location": "apartado 6, punto 2",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a55",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "5. La renovación no constituye un acto de mero trámite y exige un acto expreso mediante el cual el ciudadano, o su representante, manifieste su voluntad expresa de renovar la inscripción. Las renovaciones por parte de los ENCSARP se realizarán mediante la ratificación de los datos que ya constan en el Padrón, incluyendo una declaración de continuar viviendo en el municipio y en el domicilio en que figuren empadronados y su voluntad de renovar la inscripción",
+        "location": "apartado 6, punto 5",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a57",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "7. Los Ayuntamientos acordarán la baja por caducidad en su Padrón de las inscripciones de los ENCSARP que no hayan renovado su inscripción, transcurridos dos años desde su fecha de alta en el Padrón o desde la fecha de la última renovación expresa. Esta caducidad podrá declararse sin necesidad de audiencia previa al interesado.",
+        "location": "apartado 6, punto 7",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a59",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "7. Procedimiento de comprobación periódica de la residencia de los extranjeros que no tienen la obligación de renovar su inscripción padronal (NO_ENCSARP). En el marco de las operaciones de control y actualización de los Padrones municipales previstas en el artículo 78 del Reglamento de Población y Demarcación Territorial de las Entidades Locales se realizarán comprobaciones periódicas de la residencia en el municipio de los extranjeros que no tienen la obligación de renovar su inscripción padronal cada dos años: los NO_ENCSARP (ciudadanos de la Unión Europea y de los Estados parte en el Acuerdo sobre el Espacio Económico Europeo, así como de los que, sin pertenecer a estos países, tienen tarjeta de residencia de régimen comunitario (por ser familiares de comunitarios) y aquellos que tienen autorización de residencia de larga duración). Estas comprobaciones se realizarán para los extranjeros NO_ENCSARP cuya última inscripción padronal (se exceptúan las modificaciones territoriales sin intervención del habitante) tenga más de dos años de antigüedad, en el caso de no estar inscritos en el Registro Central de Extranjeros (RCE), o más de cinco, si lo están, y que además tengan una autorización de residencia caducada o el certificado de inscripción en el RCE de ciudadano de la unión haya sido expedido hace más de cinco años, los cuales serán comunicados por el Instituto Nacional de Estadística a los Ayuntamientos en los ficheros mensuales de devolución con las incidencias correspondientes. Para ello los Ayuntamientos podrán solicitar a los ciudadanos que realicen una confirmación por escrito de la continuidad de su residencia, o utilizar otros medios para la verificación, como pueden ser la comprobación por la policía local, inspección de funcionarios locales, etc",
+        "location": "apartado 7",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a61",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "La certificación es el documento que acredita fehacientemente el hecho del empadronamiento. Conforme establecen el art. 61 del Reglamento de Población y Demarcación Territorial de las Entidades Locales y 204 y 205 del Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, la certificación debe estar suscrita por el Secretario del Ayuntamiento y conformada por el Alcalde, o por quienes les sustituyan o cuenten con su delegación, ya sea mediante firmas manuscritas o electrónicas conforme a la legislación vigente. Por otra parte, el citado artículo 61 del Reglamento de Población y Demarcación Territorial de las Entidades Locales establece que los Ayuntamientos podrán expedir volantes de empadronamiento, como documentos de carácter puramente informativo en los que no serán necesarias las formalidades previstas para las certificaciones; el volante de empadronamiento no requiere la firma de ningún funcionario o autoridad municipal. Los Ayuntamientos podrán establecer un procedimiento de comprobación de volantes y certificados expedidos que permita verificar la autenticidad de los mismos, por un periodo mínimo de tres meses desde su expedición, ya sea conservando copia de los expedidos o por procedimientos electrónicos. Esta comprobación permite que el volante pueda ser suficiente en numerosas gestiones en que los ciudadanos precisen aportar información sobre sus datos de empadronamiento, pero no en aquellos supuestos en los que se exija específicamente el certificado de empadronamiento por ser éste el único documento público que acredita fehacientemente a efectos administrativos la residencia y el domicilio habitual de un ciudadano (un ejemplo en el que se requieren certificados es el procedimiento de reconocimiento de firma de los documentos expedidos por las entidades locales, dentro del procedimiento de legalización diplomática de estos documentos cuando deban surtir efectos en países no firmantes del Convenio de La Haya, de 5 de octubre de 1961). Es notorio que en el actual sistema de gestión padronal una persona puede estar transitoriamente empadronada en dos municipios (según se deduce del art. 70 del Reglamento), y que pueden producirse errores, duplicidades, etc. Estas disfunciones no invalidan la presunción general de exactitud de las certificaciones y volantes, ni originarán responsabilidad especial alguna para los gestores del Padrón. Por ello, ni en las certificaciones ni en los volantes es necesario establecer salvedad alguna con carácter general, ni cláusula alguna de caducidad del documento. La rectificación de las certificaciones erróneas se llevará a cabo por los procedimientos ordinarios de revisión de los actos administrativos (arts. 102 y siguientes de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común). Los certificados acreditan, y los volantes informan, únicamente de la residencia en el municipio y el domicilio del habitante, así como otros hechos relativos al empadronamiento y de los que el Ayuntamiento tiene constancia oficial",
+        "location": "apartado 8.1.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a63",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "8.1.3 Supuestos de especial protección (víctimas de violencia de género y menores bajo su guardia o custodia, menores en acogimiento familiar, etc.): La legislación existente protege de manera adecuada los datos padronales de las personas en estas situaciones, puesto que el acceso a los mismos está limitado a los propios interesados, que podrán consultarlos personalmente o por medio de su representante, legal o voluntario, pero no así los cónyuges o parejas respecto a sus víctimas o los padres biológicos que ya no ostentan la patria potestad. No obstante, corresponde al Ayuntamiento controlar la legalidad del acceso a los datos de su Padrón municipal",
+        "location": "apartado 8.1.3",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2015_a64",
+      "source": {
+        "title": "Resolución de 16 de marzo de 2015, de la Subsecretaría, por la que se publica la Resolución de 30 de enero de 2015, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, sobre instrucciones técnicas a los Ayuntamientos sobre gestión del padrón municipal (BOE-A-2015-3109, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales; publicada por la Subsecretaría del Ministerio de la Presidencia en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales a propuesta del Consejo de Empadronamiento; difusión de los diseños de registro de los ficheros de intercambio y de las incidencias a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 71",
+        "date": "2015-01-30",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 71, de 24 de marzo de 2015; Resolución de publicación de 16 de marzo de 2015; última modificación de 02 de mayo de 2020; norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, publicada por Resolución de 29 de abril de 2020 (Ref. BOE-A-2020-4784)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3109"
+      },
+      "text": {
+        "excerpt": "8.2 cesión de datos padronales (comunicación de datos a terceros). La cesión de datos padronales se encuentra regulada por el artículo 16.3 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, en los siguientes términos: Los datos del Padrón municipal se cederán a otras Administraciones Públicas que lo soliciten sin consentimiento previo del afectado solamente cuando les sean necesarios para el ejercicio de sus respectivas competencias, y exclusivamente para asuntos en los que la residencia o el domicilio sean datos relevantes. También pueden servir para elaborar estadísticas oficiales sometidas al secreto estadístico, en los términos previstos en la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública y en las leyes de estadística de las comunidades autónomas con competencia en la materia. La interpretación restrictiva que, en opinión de la Agencia Española de Protección de Datos, debe hacerse de este artículo determina que sólo podrán cederse, sin el previo consentimiento del afectado, los datos del Padrón relativos al domicilio o la residencia",
+        "location": "apartado 8.2",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a01",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "1. Consideraciones generales. Las inscripciones en el Padrón se realizarán teniendo en cuenta las siguientes consideraciones generales: 1. El Padrón municipal es el registro administrativo donde constan los vecinos de un municipio. Sus datos constituyen prueba de la residencia en el municipio y del domicilio habitual en el mismo. Las certificaciones que de dichos datos se expidan tendrán carácter de documento público y fehaciente para todos los efectos administrativos.",
+        "location": "apartado 1, punto 1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a02",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "2. Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio en el que resida habitualmente. Quien viva en varios municipios, o en varios domicilios dentro del mismo municipio, deberá inscribirse únicamente en el que habite durante más tiempo al año.",
+        "location": "apartado 1, punto 2",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a03",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "3. Los menores de edad no emancipados tendrán la misma vecindad que los padres que tengan su guarda o custodia o, en su defecto, de sus representantes legales, salvo autorización por escrito de éstos para residir en otro domicilio o municipio, de acuerdo con lo previsto en el artículo 54.2 del Reglamento de Población y Demarcación Territorial de las Entidades Locales. No obstante, la decisión del lugar de residencia habitual de la persona menor de edad es una función de la patria potestad, en virtud de lo establecido en el artículo 154 del Código Civil, por lo que solo podrá ser modificado con el consentimiento de ambos progenitores o, en su defecto, por autorización judicial. Ello sin perjuicio de las situaciones que se contemplan en el apartado 2.2. Los mayores con discapacidad que excepcionalmente tengan nombrado representante voluntario o judicial tendrán su misma vecindad, salvo autorización por escrito para residir en otro domicilio o municipio, de acuerdo con el mencionado artículo 54.2 del Reglamento",
+        "location": "apartado 1, punto 3",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a08",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "8. El Ayuntamiento podrá comprobar la veracidad de los datos consignados por los vecinos, exigiendo al efecto la presentación de los documentos que acrediten su identidad y el domicilio en el municipio, que se definen en los apartados correspondientes de esta Resolución.",
+        "location": "apartado 1, punto 8",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a09",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "9. Con carácter general, siempre que un ciudadano solicite el alta o la modificación de cualquiera de sus datos en el Padrón de un municipio aportando los documentos necesarios para probar su identidad, representación en su caso, y residencia real en el mismo, se procederá a realizar su inscripción en el Padrón sin más trámite, siendo efectiva desde ese momento y sin que sea posible otorgarle efectos retroactivos.",
+        "location": "apartado 1, punto 9",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a10",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "10. Cuando existan indicios que hagan dudar de que se vaya a establecer la residencia en el municipio, o de alguno de los datos declarados por el ciudadano, antes de proceder al alta, o a la modificación de datos en el Padrón, el Ayuntamiento, presentada la correspondiente solicitud por parte del interesado, ordenará los actos de trámite necesarios para comprobar la veracidad de los datos consignados en la solicitud, dictando la correspondiente resolución.",
+        "location": "apartado 1, punto 10",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a12",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "13. Si el Ayuntamiento no notifica dentro de los tres meses la resolución estimando o desestimando la solicitud, operará el silencio positivo y el ciudadano quedará a todos los efectos empadronado en ese municipio (artículo 24 de la Ley 39/2015), desde la fecha de su solicitud.",
+        "location": "apartado 1, punto 13",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a15",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "2.1 Documentación acreditativa de la identidad. Los datos obligatorios de identificación de la inscripción en el Padrón municipal son nombre y apellidos, sexo, nacionalidad, lugar y fecha de nacimiento y número del documento de identificación. Estos datos se acreditarán para cualquier tramitación en el Padrón a través del documento de identidad que se establece en la letra f) del artículo 16.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, así como en los contemplados en los párrafos siguientes, que en todo caso deberán estar en vigor, no siendo válido un documento caducado, salvo que se aporte la solicitud de renovación del mismo, y sin necesidad de visado, salvo la excepción que se cita en el mencionado artículo. Cuando la solicitud se realice por los medios electrónicos habilitados, los datos identificativos que no consten en el certificado electrónico (lugar y fecha de nacimiento, sexo, y, en su caso, nacionalidad), se recogerán mediante la correspondiente hoja padronal o formulario y se validarán a través del Sistema de Verificación de Datos de Identidad disponible en las plataformas de intermediación de datos, salvo que el interesado se oponga a ello, de conformidad con lo establecido en el artículo 28 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en cuyo caso deberá motivarlo y aportar el documento justificativo correspondiente. Respecto al número del documento de identificación varía en función de que los inscritos sean españoles o extranjeros. Para los primeros tal número es el del Documento Nacional de Identidad (DNI). En el caso de los extranjeros depende de si se trata de: – Nacionales de estados miembros de la Unión Europea, de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo1 o de Estados a los que, en virtud de un convenio internacional se extienda el régimen jurídico previsto para los ciudadanos de los Estados mencionados: El número que debe figurar en la inscripción padronal, según la Ley 7/1985, es el de la tarjeta de residencia en vigor expedida por las autoridades españolas o, en su defecto, el del documento acreditativo de la identidad o del pasaporte en vigor expedido por las autoridades del país de procedencia. Sin embargo, desde la entrada en vigor del Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo, que impone a éstos la obligación de inscribirse en el Registro Central de Extranjeros si pretenden permanecer o fijar su residencia en España por un período superior a tres meses, la referencia a la tarjeta de residencia en vigor del artículo 16.2.f) (que ha dejado de expedirse) deberá entenderse realizada al Número de Identificación de Extranjero que consta en el Certificado de Registro de Ciudadano de la Unión expedido en virtud de lo previsto en el artículo 7 del citado Real Decreto2. 1 Noruega, Islandia, Liechtestein y Suiza. Artículo 7. RD 240/2007. Residencia superior a tres meses de ciudadanos de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo: 2 5. Los nacionales de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo estarán obligados a solicitar personalmente ante la oficina de extranjeros de la provincia donde pretendan permanecer o fijar su residencia o, en su defecto, ante la Comisaría de Policía correspondiente, su inscripción en el Registro Central de Extranjeros. Dicha solicitud deberá presentarse en el plazo de tres meses contados desde la fecha de entrada en España, siéndole expedido de forma inmediata un certificado de registro en el que constará el nombre, nacionalidad y domicilio de la persona registrada, su número de identidad de extranjero, y la fecha de registro. 6. Junto a la solicitud de inscripción, deberá presentarse el pasaporte o documento nacional de identidad válido y en vigor del solicitante, así como la documentación acreditativa del cumplimiento de los requisitos exigibles para la inscripción establecidos en este artículo. En el supuesto de que el pasaporte o el documento nacional de identidad estén caducados, deberá aportarse copia de éstos y de la solicitud de renovación. No obstante, dado que la finalidad de la documentación que se recoge en el artículo 16.2.f) de la Ley 7/1985 es la de acreditar claramente la identidad del inscrito, se considera que, como el certificado no incluye la fotografía del interesado y no es válido para acreditar la identidad, para poder realizar la inscripción padronal se deberá acompañar dicho certificado de alguno de los documentos acreditativos de la identidad a que se refiere el propio artículo 16.2.f), esto es, documento acreditativo de la identidad o pasaporte en vigor expedido por las autoridades del país de procedencia. En estos supuestos los Ayuntamientos podrán hacer constar en su base padronal tanto el número de identificación de extranjero como el del documento utilizado para acreditar su identidad. Únicamente cuando no se disponga de dicho certificado se consignaría en la inscripción padronal el número que figure en el documento acreditativo de la identidad correspondiente. – Nacionales de Estados distintos de los anteriores: El número que debe figurar en la inscripción padronal, según la Ley 7/1985, es el número de identificación de extranjero que conste en documento, en vigor, expedido por las autoridades españolas o, en su defecto, por no ser titulares de éstos, el número del pasaporte en vigor expedido por las autoridades del país de procedencia, salvo que, por virtud de Tratado o Acuerdo Internacional, disfruten de un régimen específico de exención de visado en materia de pequeño tráfico fronterizo con el municipio en el que se pretenda el empadronamiento, en cuyo caso, se exigirá el correspondiente visado (salvedad referida a aquellos municipios que hacen frontera con países que no forman parte del «Espacio de Schengen», como es el caso de Ceuta y Melilla). Por tanto, el criterio general es que deben presentar un documento en vigor expedido por las autoridades españolas (preferentemente la tarjeta de identidad de extranjero) en el que figura el NIE (número de identificación de extranjero) y, en el caso de no disponer de tarjeta de identidad de extranjero, se consignará el número del pasaporte. En el supuesto de que el extranjero hubiese solicitado inicialmente la inscripción padronal identificándose mediante el pasaporte, y posteriormente se presentara con una tarjeta de identidad de extranjero o esta sea comunicada por el INE, debería modificarse el número de identificación para ajustarlo a esta última. El objetivo de exigir documentación identificativa al solicitar la inscripción en el Padrón es exclusivamente comprobar que los datos de identificación (nombre, apellidos, número del documento, nacionalidad, sexo y lugar y fecha de nacimiento) son correctos, con independencia de la situación legal del extranjero en España. Al Ayuntamiento no le corresponde realizar ningún control sobre la legalidad o ilegalidad de la residencia en territorio español de ninguno de sus vecinos. Por otra parte, hay que señalar que la validez de la inscripción en el Padrón de estos extranjeros es independiente de la validez del documento que sirvió de base para la misma. Por tanto, la inscripción no caduca cuando deja de tener validez dicho documento. No obstante, a los efectos de lo previsto en el artículo 16.1 de la Ley 7/1985 en relación con la obligación de los extranjeros no comunitarios sin autorización de residencia permanente de renovar su inscripción padronal cada dos años, y de la declaración de su caducidad cuando no se produzca tal renovación, los Ayuntamientos podrán recabar también del ciudadano, y hacer constar en sus bases de datos, el tipo de autorización de residencia que conste en la tarjeta de identidad de extranjero, con independencia de las comunicaciones efectuadas por el Instituto Nacional de Estadística para la gestión de este procedimiento, según se describe en el apartado correspondiente de la presente Resolución. Otros documentos que pueden considerarse válidos para la identificación, aparte de los anteriormente citados, son los siguientes: – El pasaporte para ciudadanos españoles procedentes del extranjero, hasta la obtención antes de seis meses del DNI. – La fotocopia de cualquier documento de identificación sustraído o extraviado, tanto si estaba en vigor como caducado, siempre que vaya acompañada por la denuncia formulada al respecto ante la Policía, junto con la solicitud de renovación del propio documento. – La cédula de inscripción, que sustituye al pasaporte y se concede en España a aquellos extranjeros a los que, por alguna razón, su país no les documenta o a aquellos que carecen de nacionalidad (apátridas). – Los títulos de viaje: se trata de documentos expedidos, al igual que los pasaportes, por las autoridades competentes del país de origen o procedencia de sus titulares o por organizaciones internacionales habilitadas para ello por el derecho internacional y que, en todo caso, deben contener datos suficientes para la determinación de la identidad y nacionalidad de los titulares. – Los siguientes documentos que se facilitan a los solicitantes de asilo: a) Resguardo de presentación de solicitud de protección internacional: este documento se expide con dos fechas de validez y será válido para la identificación en el Padrón una vez transcurrida la primera de ellas, es decir, durante la prórroga de su período de validez hasta la segunda. b) Documentos acreditativos de la condición de solicitante, en tramitación, de protección internacional: Doc. Ex148 (o tarjeta roja sin trabajo) y Doc. Ex148 bis (o tarjeta roja con autorización a trabajar). – La fotocopia compulsada por el Ministerio del Interior, Juzgados o Tribunales de un pasaporte en vigor retenido, que será válida durante el tiempo de vigencia del citado pasaporte. – Documentos de identidad expedidos por la Secretaría de Estado de Instituciones Penitenciarias para personas recluidas en dichas instituciones en los que aparece un número de identificación, foto y huella dactilar de la persona en cuestión. – El permiso de conducción español, debiendo acreditarse los datos obligatorios que no constan en el mismo (sexo, nacionalidad y lugar de nacimiento) mediante otro documento. – Documentos expedidos por el Ministerio de Asuntos Exteriores y Cooperación (documentos de identidad consular y de acreditación de organismos internacionales), debiendo acreditarse los datos obligatorios que no constan en los mismos mediante el pasaporte. – Ficha de inscripción MENA (Menor Extranjero No Acompañado) expedida por el Ministerio del Interior. La acreditación de los datos de identidad de menores de edad, sin distinción de nacionalidad, que puedan no disponer de alguno de los documentos de identificación citados anteriormente se efectuará, hasta los 14 años, mediante el Libro de Familia o el Certificado de nacimiento",
+        "location": "apartado 2.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a16",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "2.2.1 Representación legal de menores. De conformidad con lo dispuesto en el artículo 162 del Código Civil, “los padres que ostenten la patria potestad tienen la representación legal de sus hijos menores no emancipados”, por lo que en principio bastará con la presentación del Libro de Familia o Certificado de nacimiento para reputar válida dicha representación. Por otra parte, el artículo 154 del Código Civil (en redacción dada por la disposición final segunda de la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia) incluye entre las funciones que comprende la patria potestad la de “decidir el lugar de residencia habitual de la persona menor de edad, que solo podrá ser modificado con el consentimiento de ambos progenitores o, en su defecto, por autorización judicial",
+        "location": "apartado 2.2.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a18",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "2.2.1.2 Empadronamiento con uno solo de los progenitores con el consentimiento de ambos o autorización judicial. Cuando se solicite la inscripción o cambio de domicilio de un menor con uno solo de sus progenitores, será necesario acreditar el consentimiento de ambos (siempre que uno de ellos no haya sido privado de la patria potestad, en cuyo caso deberá presentarse la correspondiente resolución judicial) o, en su defecto, aportar una autorización judicial. El consentimiento de ambos progenitores podrá recogerse en la hoja padronal mediante la que se notifiquen los datos de inscripción del menor, si estuviera habilitada para ello, o en una autorización por escrito que se acompañe a la misma",
+        "location": "apartado 2.2.1.2",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a21",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "2.2.1.4 Empadronamiento cuando existe una resolución judicial que establece la guarda y custodia compartida por ambos progenitores. Si la resolución judicial por la que se fija la guarda y custodia compartida no se pronuncia sobre el lugar de empadronamiento, el Ayuntamiento exigirá prueba documental de que existe mutuo acuerdo entre los progenitores antes de tramitar cualquier modificación del domicilio del menor y, en caso de que no se pueda acreditar el mutuo acuerdo, deberá exigir la presentación de una nueva resolución judicial que se pronuncie expresamente sobre el empadronamiento, y no llevará a cabo la modificación en tanto no se aporte alguno de los documentos anteriores.",
+        "location": "apartado 2.2.1.4",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a27",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "2.2.4 Actuaciones en el Padrón de menores mayores de 16 años. Existe la posibilidad de que en un domicilio habiten únicamente personas menores de edad. En primer lugar, el menor de edad mayor de 16 años puede estar emancipado, lo que “habilita al menor para regir su persona y bienes como si fuera mayor” (artículo 247 del Código Civil). Debe tenerse además en cuenta que, según el artículo 243 del Código Civil, “se reputará para todos los efectos como emancipado al hijo mayor de dieciséis años que, con el consentimiento de los progenitores, viviere independientemente de estos”. Dado que el Código Civil no exige ningún requisito formal para este consentimiento, y que configura este sistema de emancipación como una presunción, el gestor del Padrón debe entender que cuando un mayor de dieciséis años aparece inscrito en un domicilio distinto del de sus padres o tutores es precisamente porque tiene su consentimiento para vivir independiente. Por ello es correcto dar de alta en el Padrón a un menor de edad que sea mayor de dieciséis años sin exigir requisitos o documentos distintos de los que se requieren para cualquier mayor de edad. Por otra parte, cualquier menor a partir de dieciséis años podrá solicitar la modificación de sus datos padronales, aportando la documentación correspondiente",
+        "location": "apartado 2.2.4",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a30",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "2.3 Documentación acreditativa del domicilio de residencia. El Padrón es el registro administrativo que pretende reflejar el domicilio donde residen las personas que viven en España. Su objetivo es, por tanto, dejar constancia de un hecho, por lo que, en principio, no debe resultar distorsionado ni por los derechos que puedan o no corresponder al vecino para residir en ese domicilio, ni por los derechos que podrían derivarse de la expedición de una certificación acreditativa de aquel hecho. En consonancia con este objetivo, la norma fundamental que debe presidir la actuación municipal de gestión del Padrón es la contenida en el artículo 17.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, donde dice que los Ayuntamientos realizarán las actuaciones y operaciones necesarias para mantener actualizados sus Padrones de modo que los datos contenidos en éstos concuerden con la realidad. Por ello, las facultades atribuidas al Ayuntamiento en el artículo 59.2 del Reglamento de Población y Demarcación Territorial de las Entidades Locales para exigir la aportación de documentos a sus vecinos tienen como única finalidad «comprobar la veracidad de los datos consignados», como textualmente señala el propio artículo. En consecuencia, tan pronto como el gestor municipal adquiera la convicción de que los datos que constan en la inscripción padronal se ajustan a la realidad, deja de estar facultado para pedir al vecino ulteriores justificantes que acrediten aquel hecho. Y, en concreto, la posibilidad de que el Ayuntamiento solicite del vecino «el título que legitime la ocupación de la vivienda» (artículo 59.2 del Reglamento de Población y Demarcación Territorial de las Entidades Locales) no atribuye a las Administraciones Locales ninguna competencia para juzgar cuestiones de propiedad, de arrendamientos urbanos o, en general, de naturaleza jurídico-privada, sino que tiene por única finalidad servir de elemento de prueba para acreditar que, efectivamente, el vecino habita en el domicilio que ha indicado. Por ello, este título puede ser: – Título de propiedad (escritura, contrato de compraventa, Nota del Registro, comprobación de bases de datos municipales donde conste dicha propiedad, etc.). – Contrato vigente de arrendamiento de vivienda para uso de residencia habitual acompañado del último recibo de alquiler. El Ayuntamiento tiene la potestad de aceptar otros documentos, hechas las comprobaciones que considere oportunas (suministros de luz, agua, etc.). Asimismo, el gestor municipal podrá comprobar por otros medios (informe de Policía local, inspección del propio servicio, etc.) que realmente el vecino habita en ese domicilio, y en caso afirmativo inscribirlo en el Padrón",
+        "location": "apartado 2.3",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a31",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "3.1 Empadronamiento en un domicilio en el que ya constan empadronadas otras personas. Cuando un ciudadano solicite su alta en un domicilio en el que ya consten empadronadas otras personas, en lugar de solicitarle que aporte el documento que justifique su ocupación de la vivienda, se le deberá exigir la autorización por escrito de una persona mayor de edad que figure empadronada en ese domicilio. La persona que autorice deberá disponer de algún título acreditativo de la posesión efectiva de la vivienda (propiedad, alquiler...) a nombre de la misma. Si, con ocasión de este empadronamiento, la Administración municipal advirtiera que las personas que figuran empadronadas en ese domicilio lo han abandonado, aceptará el empadronamiento de los nuevos residentes en la vivienda conforme al procedimiento ordinario, y, simultáneamente, iniciará expediente de baja de oficio en su Padrón de las personas que ya no habitan en ese domicilio",
+        "location": "apartado 3.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a33",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "3.3 Empadronamiento en infraviviendas y de personas sin domicilio. Como se ha indicado anteriormente, el Padrón debe reflejar el domicilio donde realmente vive cada vecino del municipio y de la misma manera que la inscripción padronal es completamente independiente de las controversias jurídico-privadas sobre la titularidad de la vivienda, lo es también de las circunstancias físicas, higiénico-sanitarias o de otra índole que afecten al domicilio. En consecuencia, las infraviviendas (chabolas, caravanas, cuevas, etc. e incluso ausencia total de techo) pueden y deben figurar como domicilios válidos en el Padrón. Las situaciones más extremas pueden plantear la duda sobre la procedencia o no de su constancia en el Padrón municipal. El criterio que debe presidir esta decisión viene determinado por la posibilidad o imposibilidad de dirigir al empadronado una comunicación al domicilio que figure en su inscripción. En el caso de que sea razonable esperar que esa comunicación llegue a conocimiento del destinatario, se le debe empadronar en esa dirección. La correcta aplicación de este criterio determina, por un lado, que se deba aceptar como domicilio cualquier dirección donde efectivamente vivan los vecinos, y, por otro, que pueda y deba recurrirse a un «domicilio ficticio» en los supuestos en que una persona que carece de techo reside habitualmente en el municipio y sea conocida de los Servicios Sociales correspondientes. Las condiciones que deberían cumplirse para este tipo de empadronamiento son las siguientes: – Que los Servicios Sociales estén integrados en la estructura orgánica de alguna Administración Pública o bajo su coordinación y supervisión. – Que los responsables de estos Servicios informen sobre la habitualidad de la residencia en el municipio del vecino que se pretende empadronar. – Que los Servicios Sociales indiquen la dirección que debe figurar en la inscripción padronal con referencia en el callejero municipal y se comprometan a intentar la práctica de la notificación cuando se reciba en esa dirección una comunicación procedente de alguna Administración Pública. En estas condiciones, la dirección del empadronamiento será la que señalen los Servicios Sociales: la dirección del propio Servicio, la del Albergue municipal, la del punto geográfico concreto donde ese vecino suela pernoctar, etc",
+        "location": "apartado 3.3",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a34",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "3.4 Empadronamiento de reclusos. El empadronamiento de reclusos en el municipio en el que se encuentra el centro penitenciario sólo podrá realizarse a petición de los mismos. Admitir el empadronamiento forzoso de los reclusos supondría imponer una pena accesoria a la de prisión, que al no estar expresamente prevista resultaría contraria al artículo 25 de la Constitución Española. A sensu contrario, los reclusos tienen el derecho de elegir como domicilio habitual el que asignen a efectos de empadronamiento, no siendo pues la residencia efectiva el criterio a aplicar en este caso. La única limitación que cabe establecer al respecto es que no exista, o haya dejado de existir, vinculación con el domicilio elegido para el empadronamiento (por ejemplo, porque la vivienda esté ocupada por otro grupo familiar con el que no se tenga relación o porque las personas que figuren inscritas con el mismo soliciten de forma justificada su baja, etc",
+        "location": "apartado 3.4",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a35",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "3.5 Empadronamiento de víctimas de violencia de género. En el caso de personas víctimas de violencia de género a las que hace referencia el artículo 1.2 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, que residan o se encuentren bajo el amparo de la red de recursos de asistencia social integral, como pisos tutelados, casas de acogida u otros recursos de la citada red, y cuando no sea posible el empadronamiento en el domicilio real por razones de seguridad, este podrá llevarse a cabo en el lugar que determinen los Servicios Sociales del municipio en el que efectivamente residan (que podrá ser la sede de una institución social o de los Servicios Sociales de cualquier Administración Pública domiciliada en su término municipal, o cualquier otra dirección que estos indiquen, siempre dentro del citado municipio) tras la correspondiente valoración técnica, debiendo cumplirse las siguientes condiciones: – Que los Servicios Sociales y la institución social de referencia estén integrados en la estructura orgánica de alguna Administración Pública o bajo su coordinación y supervisión. – Que los responsables de estos Servicios Sociales informen sobre la habitualidad de la residencia en el municipio de las personas que se pretenden empadronar. – Que los Servicios Sociales indiquen la dirección que debe figurar en la inscripción padronal con referencia en el callejero municipal y se comprometan a intentar la práctica de la notificación cuando se reciba en esa dirección una comunicación procedente de alguna Administración Pública",
+        "location": "apartado 3.5",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a38",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "5.1 Expedientes de alta. Se distinguen tres tipos de inscripción de alta en el Padrón: altas por cambio de residencia, altas por nacimiento y altas por omisión.",
+        "location": "apartado 5.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a43",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "5.1.3 Altas por omisión. Se refieren a inscripciones en el Padrón de personas que viviendo habitualmente en el municipio no figuran inscritas en el mismo (por motivos diversos: no se inscribieron cuando llegaron al municipio, han sido dados de baja en procedimientos de baja por caducidad, baja de oficio, etc.). Pueden ser a solicitud del habitante o declaradas de oficio por el Ayuntamiento.",
+        "location": "apartado 5.1.3",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a45",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "5.1.3.2 Altas de oficio. Los Ayuntamientos declararán de oficio la inscripción en su Padrón como vecinos a las personas que vivan habitualmente en su término municipal y no figuren inscritas en el mismo, al amparo del artículo 73 del Reglamento de Población y Demarcación Territorial de las Entidades Locales. Para decretar un alta de oficio será necesaria previamente la notificación al interesado de la incoación del expediente, que dispondrá del plazo que se señale, no superior a quince días ni inferior a diez, para manifestar si está o no de acuerdo con el alta pudiendo, en este último caso, presentar las justificaciones que estime pertinentes al objeto de acreditar que no reside en el municipio la mayor parte del año y que está empadronado, o procede a empadronarse en el municipio de su residencia o, en su caso, en el Padrón de españoles residentes en el extranjero, a través del correspondiente Registro de Matrícula Consular. Si el interesado manifiesta de forma expresa su conformidad con el alta, deberá indicar por escrito el municipio en que consta inscrito, o en su caso, si figura en el Padrón de españoles residentes en el extranjero. Si no figura o desconoce figurar empadronado lo hará constar así en la correspondiente declaración. En los casos en que el interesado manifieste su disconformidad con el alta o no efectúe alegación alguna una vez transcurrido el plazo señalado al efecto, el alta de oficio sólo podrá llevarse a cabo de acuerdo con los trámites establecidos reglamentariamente. Dependiendo de si se conoce o no el municipio de inscripción anterior el alta se remitirá al INE en los ficheros de variaciones mensuales como alta por cambio de residencia o alta por omisión. En el caso de que el INE localice la inscripción en otro municipio lo comunicará al mismo para que proceda a la baja automática por cambio de residencia en el Padrón correspondiente",
+        "location": "apartado 5.1.3.2",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a46",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "5.2 Expedientes de baja. Las bajas en el Padrón pueden estar ocasionadas por los siguientes motivos: cambio de residencia, defunción, duplicado, inscripción indebida y caducidad.",
+        "location": "apartado 5.2",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a47",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "5.2.1 Bajas por cambio de residencia. Serán bajas por cambio de residencia las de aquellas personas empadronadas en un municipio que trasladan su residencia a otro municipio o al extranjero. Bajo este epígrafe se consideran también las bajas por expulsión de extranjeros ejecutadas y de retornados voluntarios a su país de origen. Según lo establecido en el artículo 70 del Reglamento de Población y Demarcación Territorial de las Entidades Locales, toda persona que cambie de municipio de residencia deberá solicitar por escrito su alta en el Padrón del municipio de destino. De acuerdo con lo establecido en el apartado relativo a las altas por cambio de residencia, la comunicación del alta será remitida por el Instituto Nacional de Estadística al municipio de procedencia, mediante el envío de las incidencias correspondientes en los ficheros de devolución mensual, tras cuya recepción y en virtud del citado artículo 70 los Ayuntamientos estarán obligados a dar la baja en sus Padrones sin más trámite. Cuando como consecuencia de estas comunicaciones causen baja los mayores de edad empadronados en un domicilio, quedando inscritos solos menores de 16 años, el Ayuntamiento donde se produce dicha baja comunicará esta circunstancia al de alta, con el fin de comprobar que no se trata de ningún error administrativo. Una vez confirmado este extremo, realizará las comprobaciones oportunas y, si hubiera indicios de que no residen en el domicilio de inscripción, iniciará el correspondiente expediente de baja de oficio por inscripción indebida. En el caso de que sea un ciudadano español el que traslada su residencia al extranjero deberá solicitar el alta en el Registro de Matrícula de la Oficina o Sección Consular de destino, que la remitirá, a través del Ministerio de Asuntos Exteriores y de Cooperación, al Instituto Nacional de Estadística, el cual le dará de alta en el Padrón de españoles residentes en el extranjero y trasladará la baja al municipio de procedencia, donde sin más trámite, una vez localizada en el Padrón, se dará de baja al interesado. La fecha de la baja por cambio de residencia será la misma que la fecha del alta en el Padrón o Registro de Matrícula de la Oficina o Sección Consular del municipio o país de destino, respectivamente. Esta fecha se incluirá en las comunicaciones del Instituto Nacional de Estadística. No se realizarán inscripciones de baja por cambio de residencia a petición de los interesados, salvo que se trate de extranjeros que abandonen España, o de sus hijos, aunque sean españoles, menores de edad (en este último caso en virtud de lo previsto en el artículo 54.2 del Reglamento de Población y Demarcación Territorial de las Entidades Locales), sino que deberán ser siempre a resultas de una comunicación de la inscripción en el Padrón de otro municipio o en el Registro de Matrícula de la Oficina o Sección Consular del país de destino. También se repercutirán como bajas por cambio de residencia las expulsiones de extranjeros ejecutadas comunicadas por la Dirección General de la Policía, canalizadas a través del Instituto Nacional de Estadística, en virtud de lo establecido en el artículo 15 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local; al haber prescrito el hecho que motivó la inscripción, y del artículo 69 del Reglamento de Población y Demarcación Territorial de las Entidades Locales aprobado por el Real Decreto 1690/1986, que prevé la actualización de los datos del Padrón municipal con las informaciones recibidas de las demás Administraciones Públicas. Así como los Retornos Voluntarios de los extranjeros a su país de origen al amparo del Real Decreto-Ley 4/2008, de 19 de septiembre, sobre abono acumulado y de forma anticipada de la prestación contributiva por desempleo a trabajadores extranjeros no comunitarios que retornen voluntariamente a sus países de origen, comunicados por el Servicio Público de Empleo Estatal y canalizados a través del Instituto Nacional de Estadística",
+        "location": "apartado 5.2.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a56",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "5.2.4.1 Bajas de oficio. Según el artículo 72 del Reglamento de Población y Demarcación Territorial de las Entidades Locales, el Ayuntamiento dará de baja de oficio, por inscripción indebida, a quienes figuren empadronados incumpliendo los requisitos establecidos en el artículo 54 del citado Reglamento, una vez comprobada esta circunstancia en el correspondiente expediente en el que se dará audiencia al interesado. Para ello el Ayuntamiento notificará al afectado el requisito incumplido (al respecto se recuerda la posibilidad de enviar avisos a un dispositivo electrónico y/o una dirección de correo electrónico identificados por el interesado de acuerdo con el artículo 41 (apartados 1 y 6) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas) y le hará saber la incoación de oficio del expediente para proceder a darle de baja en el Padrón de su municipio por no residir habitualmente en el mismo y que, contra esta presunción, el interesado podrá, en el plazo que se señale, no superior a quince días ni inferior a diez, manifestar si está o no de acuerdo con la baja pudiendo, en este último caso, alegar y presentar los documentos y justificaciones que estime pertinentes, al objeto de acreditar que es en este municipio en el que reside durante más tiempo al año, en el caso de vivir en varios municipios. Si el interesado manifiesta de forma expresa su conformidad con la baja se procederá a la misma y comunicará el municipio o país en el que vive habitualmente que se incluirá en el correspondiente expediente. Si el afectado es un ciudadano extranjero que manifiesta vivir habitualmente en otro país, se dará de baja por cambio de residencia sin más trámite. Si el afectado comunica residir habitualmente en otro municipio, o domicilio del mismo municipio, deberá solicitar por escrito el alta, o modificación, en el Padrón municipal correspondiente o, en el caso de ser un ciudadano español que no viva habitualmente en España, en el Padrón de españoles residentes en el extranjero. Esta solicitud la tramitará el mismo Ayuntamiento que se encargará de remitirla al correspondiente municipio de alta en los diez primeros días del mes siguiente o, si reside en el extranjero, al Instituto Nacional de Estadística que la trasladará, a través del Ministerio de Asuntos Exteriores, a la correspondiente oficina o sección consular para que proceda a darle, asimismo, de alta en el Registro de Matrícula. Cuando intentada la notificación no se hubiera podido practicar, ésta se realizará de acuerdo con lo dispuesto en el artículo 44 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. A estos efectos, y para cumplir con lo previsto en la normativa de protección de datos (Disposición adicional séptima de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales), en el anuncio publicado en el «Boletín Oficial del Estado» se identificará al afectado exclusivamente mediante el número completo de su documento nacional de identidad, número de identidad de extranjero, pasaporte o documento equivalente. Cuando el afectado careciera de cualquiera de los documentos mencionados en el párrafo anterior, se le identificará únicamente mediante su nombre y apellidos. En ningún caso debe publicarse el nombre y apellidos de manera conjunta con el número completo del documento nacional de identidad, número de identidad de extranjero, pasaporte o documento equivalente. Por otra parte, los datos del domicilio en que cause baja no se incluirán en el anuncio publicado, sino únicamente una somera indicación del contenido del acto y del lugar donde los interesados, o su representante legal cuando proceda, podrán comparecer, en el plazo que se establezca, para conocimiento del contenido íntegro del mencionado acto y constancia de tal conocimiento, de acuerdo con el artículo 46 de la citada Ley 39/2015, con el fin de evitar la lesión de derechos o intereses legítimos. En los casos en que el interesado manifieste su disconformidad con la baja o no efectúe alegación alguna una vez transcurrido el plazo señalado al efecto, la baja sólo podrá llevarse a cabo de acuerdo con los trámites establecidos reglamentariamente",
+        "location": "apartado 5.2.4.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a65",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "2. El INE localizará en su base estos extranjeros y deducirá, por exclusión, cuáles son los extranjeros no comunitarios sin autorización de residencia de larga duración (ENCSARP). A los efectos de consideración de ciudadanos comunitarios también se incluyen los ciudadanos de Estados parte del Acuerdo sobre el Espacio Económico Europeo (Noruega, Islandia y Liechtenstein) así como de Suiza",
+        "location": "apartado 6, punto 2",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a68",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "5. La renovación no constituye un acto de mero trámite y exige un acto expreso mediante el cual el ciudadano, o su representante, manifieste su voluntad expresa de renovar la inscripción. Las renovaciones por parte de los ENCSARP se realizarán mediante la ratificación de los datos que ya constan en el Padrón, incluyendo una declaración de continuar viviendo en el municipio y en el domicilio en que figuren empadronados y su voluntad de renovar la inscripción (se incluye modelo orientativo en anexo IV). En el caso de que la renovación se realice por los medios electrónicos habilitados, si se tienen dudas sobre la veracidad de la declaración los Ayuntamientos podrán exigir además la aportación de documentación acreditativa de la continuidad de su residencia en el municipio. La renovación de mayores de edad mediante representación se realizará según lo previsto en el artículo 5.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Es decir, deberá acreditarse la representación por cualquier medio válido en derecho que deje constancia fidedigna (documento notarial expedido por un notario del Estado español, o mediante declaración en comparecencia personal del interesado ante funcionario público competente). La renovación de los menores de edad se realizará por los padres que tengan su guarda o custodia o, en su defecto, por sus representantes legales. En estos casos la solicitud de renovación se podrá ajustar al modelo orientativo que figura en el anexo V. Cuando la renovación se solicite por internos en centros penitenciarios, se acompañará del informe del propio centro acreditando el internamiento. Por otro lado, cada vez que un ENCSARP solicite un cambio de domicilio o de datos personales se le podrá instar a renovar la inscripción en el Padrón",
+        "location": "apartado 6, punto 5",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a70",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "7. Los Ayuntamientos acordarán la baja por caducidad en su Padrón de las inscripciones de los ENCSARP que no hayan renovado su inscripción, transcurridos dos años desde su fecha de alta en el Padrón o desde la fecha de la última renovación expresa. Esta caducidad podrá declararse sin necesidad de audiencia previa al interesado.",
+        "location": "apartado 6, punto 7",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a72",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "7. Procedimiento de comprobación periódica de la residencia de los extranjeros que no tienen la obligación de renovar su inscripción padronal (NO_ENCSARP). En el marco de las operaciones de control y actualización de los Padrones municipales previstas en el artículo 78 del Reglamento de Población y Demarcación Territorial de las Entidades Locales se realizarán comprobaciones periódicas de la residencia en el municipio de los extranjeros que no tienen la obligación de renovar su inscripción padronal cada dos años: los NO_ENCSARP (ciudadanos de la Unión Europea y de los Estados parte en el Acuerdo sobre el Espacio Económico Europeo, así como de los que, sin pertenecer a estos países, tienen tarjeta de residencia de régimen comunitario (por ser familiares de comunitarios) y aquellos que tienen autorización de residencia de larga duración). Estas comprobaciones se realizarán para los extranjeros NO_ENCSARP cuya última inscripción padronal (se exceptúan las modificaciones territoriales sin intervención del habitante) tenga más de dos años de antigüedad, en el caso de no estar inscritos en el Registro Central de Extranjeros (RCE), o más de cinco, si lo están, y que además tengan una autorización de residencia caducada o el certificado de inscripción en el RCE de ciudadano de la unión haya sido expedido hace más de cinco años, los cuales serán comunicados por el Instituto Nacional de Estadística a los Ayuntamientos en los ficheros mensuales de devolución con las incidencias correspondientes. Para ello los Ayuntamientos podrán solicitar a los ciudadanos que realicen una confirmación por escrito de la continuidad de su residencia (en los anexos VI y VII se incluyen modelos orientativos, incluido el de representante legal para menores), pudiendo utilizar los medios electrónicos habilitados para ello o verificarla mediante otras actuaciones, como pueden ser la comprobación por la policía local, inspección de funcionarios locales, etc. No obstante, en ningún caso estas actuaciones podrán suponer un comportamiento discriminatorio con respecto a los ciudadanos españoles (como, por ejemplo, exigiendo la comparecencia personal en las oficinas municipales). Si como consecuencia de las comprobaciones de residencia se derivase algún cambio de domicilio o de datos personales se efectuarán las modificaciones respectivas y cuando no se produzcan variaciones en los datos se realizará una modificación por confirmación. En el caso de que dicha residencia no haya podido ser comprobada, se iniciará un expediente de baja de oficio según lo previsto en el artículo 72 del Reglamento de Población y Demarcación Territorial de las Entidades Locales",
+        "location": "apartado 7",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a74",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "La certificación es el documento que acredita fehacientemente el hecho del empadronamiento. Conforme establecen el artículo 61 del Reglamento de Población y Demarcación Territorial de las Entidades Locales y 204 y 205 del Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, la certificación emitida en papel debe estar suscrita por el Secretario del Ayuntamiento y conformada por el Alcalde, o por quienes les sustituyan o cuenten con su delegación, ya sea mediante firmas manuscritas o electrónicas conforme a la legislación vigente. Asimismo, al amparo del artículo 41 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, cuando la emisión de un certificado de empadronamiento constituya una actuación administrativa automatizada de conformidad con lo establecido en dicho precepto, podrá utilizarse el sistema de firma de sello electrónico de órgano y el de código seguro de verificación según establece el artículo 42 de la citada Ley. Si el sistema de firma electrónica que utilice el Secretario del Ayuntamiento para la emisión de la certificación de empadronamiento permite acreditar su identidad y cargo público no será necesaria la conformidad del Alcalde. Por otra parte, el citado artículo 61 del Reglamento de Población y Demarcación Territorial de las Entidades Locales establece que los Ayuntamientos podrán expedir volantes de empadronamiento, como documentos de carácter puramente informativo en los que no serán necesarias las formalidades previstas para las certificaciones; el volante de empadronamiento no requiere la firma de ningún funcionario o autoridad municipal. Los Ayuntamientos podrán establecer un procedimiento de comprobación de volantes y certificados expedidos que permita verificar la autenticidad de los mismos, por un periodo mínimo de tres meses desde su expedición, ya sea conservando copia de los expedidos o por procedimientos electrónicos. Esta comprobación permite que el volante pueda ser suficiente en numerosas gestiones en que los ciudadanos precisen aportar información sobre sus datos de empadronamiento, pero no en aquellos supuestos en los que se exija específicamente el certificado de empadronamiento por ser éste el único documento público que acredita fehacientemente a efectos administrativos la residencia y el domicilio habitual de un ciudadano (un ejemplo en el que se requieren certificados es el procedimiento de reconocimiento de firma de los documentos expedidos por las entidades locales, dentro del procedimiento de legalización diplomática de estos documentos cuando deban surtir efectos en países no firmantes del Convenio de La Haya, de 5 de octubre de 1961). Es notorio que en el actual sistema de gestión padronal una persona puede estar transitoriamente empadronada en dos municipios (según se deduce del artículo 70 del Reglamento), y que pueden producirse errores, duplicidades, etc. Estas disfunciones no invalidan la presunción general de exactitud de las certificaciones y volantes, ni originarán responsabilidad especial alguna para los gestores del Padrón. Por ello, ni en las certificaciones ni en los volantes es necesario establecer salvedad alguna con carácter general, ni cláusula alguna de caducidad del documento. La rectificación de las certificaciones erróneas se llevará a cabo por los procedimientos ordinarios de revisión de los actos administrativos (artículos 106 y siguientes de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas). Los certificados acreditan, y los volantes informan, únicamente de la residencia en el municipio y el domicilio del habitante, así como otros hechos relativos al empadronamiento y de los que el Ayuntamiento tiene constancia oficial: fechas iniciales y final del empadronamiento en el municipio, domicilios en los que ha estado empadronado, causa del alta o de la baja en el Padrón, etc. En todo caso se cumplimentará la información adicional de cada empadronado estrictamente en la medida en que sea pertinente para el fin para el que se ha solicitado la certificación. Podrán referirse sólo a una o a la totalidad de las personas inscritas en un determinado domicilio. No deben expedirse estos documentos para varias personas cuando no comprendan a todos los habitantes inscritos en el mismo domicilio. La expedición de certificaciones y volantes comprensivos de la totalidad de las personas inscritas en un mismo domicilio, en tanto que implica el tratamiento de datos personales (lo que incluye la comunicación de los mismos), deberá estar fundamentada en alguno de los supuestos previstos en el artículo 6.1 del Reglamento general de protección de datos. Por ello, cuando se soliciten por un particular será necesario disponer del consentimiento de todos los inscritos en la vivienda (artículo 6.1.a) o tener un interés legítimo que prevalezca sobre los intereses o los derechos y libertades fundamentales de los afectados (artículo 6.1.f), el cual exigirá en cada caso un juicio de ponderación por parte del Ayuntamiento. Por lo que se refiere al consentimiento podrá haberse recogido como dato voluntario en la hoja padronal, de acuerdo con lo previsto en el artículo 57.2.a) del Reglamento de Población y Demarcación Territorial de las Entidades Locales, tal y como figura en el anexo III (casilla de Información voluntaria: «Autorizamos a los mayores de edad empadronados en esta hoja para comunicar al Ayuntamiento las futuras variaciones de sus datos y para obtener certificaciones o volantes de empadronamiento»). En cuanto al juicio de ponderación de intereses por parte del Ayuntamiento, es necesario que este disponga de toda la información necesaria lo que supone, no sólo conocer la finalidad para la que se solicitan los datos, sino, muy especialmente, la incidencia que pueda tener en la esfera de los afectados la comunicación de sus datos, lo que implica el cumplimiento del deber de información en el momento de la inscripción padronal previsto en el artículo 13 del Reglamento general de protección de datos y el posible ejercicio por los afectados de su derecho de oposición al amparo del artículo 21 del mismo. Cuando las inscripciones sean anteriores a la entrada en vigor del Reglamento general de protección de datos y no se haya informado de la posible cesión de los datos de los afectados a un tercero con interés legítimo (ni se disponga de la autorización de los de empadronados en la misma vivienda otorgada en la hoja padronal), antes de proceder a la expedición del certificado o volante de empadronamiento, deberá cumplirse con el deber de información a los efectos de realizar el mencionado juicio de ponderación. Algunos supuestos en los que prevalecerían los intereses del afectado y no procedería la comunicación de sus datos serían, por ejemplo, los de las víctimas de violencia de género o de menores (cuando el certificado o volante no se solicite por quien ostente su representación legal), o los de personas inscritas en la misma vivienda para las que se haya iniciado, o proceda la iniciación, de un expediente de baja de oficio por no residir ya en la misma, en cuyo caso únicamente se reflejará en el certificado o volante el número de personas en esa situación, indicándose en el apartado de «observaciones» que se encuentran incursos en el citado procedimiento. Los certificados y volantes de empadronamiento expedidos a personas inscritas en establecimientos colectivos deberán tener siempre carácter individual. Los volantes y certificados de empadronamiento podrán ser solicitados y, o expedidos por medios electrónicos. El Ayuntamiento que implante estos sistemas deberá vigilar que el acceso a la información padronal quede restringido a los interesados. Se considera, a estos efectos, imprescindible el uso de firma electrónica o el acceso por contraseña personal",
+        "location": "apartado 8.1.1",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a76",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "8.1.3 Supuestos de especial protección (víctimas de violencia de género y menores bajo su guarda o custodia, menores en acogimiento familiar, etc.). La legislación existente protege de manera adecuada los datos padronales de las personas en estas situaciones, puesto que el acceso a los mismos está limitado a los propios interesados, que podrán consultarlos personalmente o por medio de su representante, legal o voluntario, pero no así los cónyuges o parejas respecto a sus víctimas o los padres biológicos que ya no ostentan la patria potestad. No obstante, corresponde al Ayuntamiento controlar la legalidad del acceso a los datos de su Padrón municipal de conformidad con las normas establecidas a este respecto por el Reglamento general de protección de datos y la Ley Orgánica 3/2018, debiendo tomar las precauciones adicionales necesarias en la difusión de datos (volantes, certificados), como por ejemplo incluyendo anotaciones de prevención en las inscripciones de los ciudadanos afectados, que adviertan de su situación",
+        "location": "apartado 8.1.3",
+        "verbatim": true
+      }
+    },
+    {
+      "id": "pad2020_a77",
+      "source": {
+        "title": "Resolución de 29 de abril de 2020, de la Subsecretaría, por la que se publica la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal (BOE-A-2020-4784, texto consolidado)",
+        "apparatus": "administracion",
+        "producer": "Presidencia del Instituto Nacional de Estadística y Dirección General de Cooperación Autonómica y Local; publicada por la Subsecretaría del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática en el «Boletín Oficial del Estado»",
+        "material_base": "Administración General del Estado. Normas elaboradas por el Instituto Nacional de Estadística y la Dirección General de Cooperación Autonómica y Local a propuesta del Consejo de Empadronamiento; difusión operativa de los diseños de registro y del calendario de envíos a través del aplicativo de internet IDA-Padrón del INE; publicación en el «Boletín Oficial del Estado» núm. 122",
+        "date": "2020-02-17",
+        "format": "Resolución conjunta con instrucciones técnicas a los Ayuntamientos; texto consolidado publicado en el «Boletín Oficial del Estado» núm. 122, de 02 de mayo de 2020; última modificación de 08 de febrero de 2023",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784"
+      },
+      "text": {
+        "excerpt": "8.2 Cesión de datos padronales (comunicación de datos a terceros). La cesión de datos padronales se encuentra regulada por el artículo 16.3 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, en los siguientes términos: Los datos del Padrón municipal se cederán a otras Administraciones Públicas que lo soliciten sin consentimiento previo del afectado solamente cuando les sean necesarios para el ejercicio de sus respectivas competencias, y exclusivamente para asuntos en los que la residencia o el domicilio sean datos relevantes. También pueden servir para elaborar estadísticas oficiales sometidas al secreto estadístico, en los términos previstos en la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública y en las leyes de estadística de las comunidades autónomas con competencia en la materia. La interpretación restrictiva que, en opinión de la Agencia Española de Protección de Datos, debe hacerse de este artículo determina que sólo podrán cederse, sin el previo consentimiento del afectado, los datos del Padrón relativos al domicilio o la residencia de una relación de personas facilitada por la Administración Pública solicitante, siempre que esta información le sea necesaria para el ejercicio de sus respectivas competencias y exclusivamente para asuntos en los que la residencia o el domicilio sean datos relevantes. Fuera de estos supuestos, la cesión de los datos padronales se rige por lo establecido en el artículo 6.1 del Reglamento general de protección de datos, según el cual el tratamiento solo será lícito si se cumple al menos una de las condiciones que se relacionan en el mismo. En caso de duda los Ayuntamientos podrán dirigirse a sus respectivos delegados de protección de datos (propios o de la correspondiente Diputación Provincial o Comunidad Autónoma), de obligado nombramiento en el ámbito de las Administraciones Públicas",
+        "location": "apartado 8.2",
+        "verbatim": true
+      }
+    }
+  ]
+}
