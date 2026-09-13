@@ -17,12 +17,12 @@ La implementación completa de la aplicación se mantiene actualmente en un repo
 ├── README.md
 └── examples/
     ├── corpus_padron.json
-    └── tarek_padron.json
+    └── reading_padron.json
 ```
 
 `corpus_padron.json` contiene el corpus documental utilizado en el caso del padrón municipal.
 
-`tarek_padron.json` contiene la lectura construida sobre ese corpus: posición de lectura, operaciones, asignaciones, residuos, estimaciones y relaciones entre fragmentos.
+`reading_padron.json` contiene la lectura construida sobre ese corpus: posición de lectura, operaciones, asignaciones, residuos, estimaciones y relaciones entre fragmentos.
 
 Los dos archivos corresponden al caso real utilizado durante el TFG y funcionan también como referencia para preparar nuevos datos.
 
@@ -84,7 +84,7 @@ Su estructura general es:
 
 ```json
 {
-  "id": "tarek-padron-reading-01",
+  "id": "padron-reading-01",
   "corpus_id": "padron-es-2015-2020",
   "source_version": "2026-09-11",
   "version": "2026-09-11",
@@ -254,7 +254,7 @@ La forma más sencilla de preparar un nuevo caso es partir de los archivos inclu
 2. Crear un nuevo `id` y actualizar la versión.
 3. Definir el objeto y el alcance documental.
 4. Sustituir los fragmentos por los del nuevo corpus, manteniendo identificadores únicos.
-5. Duplicar `tarek_padron.json`.
+5. Duplicar `reading_padron.json`.
 6. Hacer coincidir `corpus_id` con el nuevo corpus.
 7. Definir la posición desde la que se realiza la lectura.
 8. Definir la grilla de operaciones.
