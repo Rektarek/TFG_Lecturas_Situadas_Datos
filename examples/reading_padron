@@ -1,0 +1,2309 @@
+{
+  "id": "padron-reading-01",
+  "corpus_id": "padron-es-2015-2020",
+  "source_version": "2026-09-11",
+  "version": "2026-09-11",
+  "position": {
+    "description": "Lectura situada de las condiciones administrativas mediante las cuales el acceso y la inscripción al padrón son formulados, probados, limitados, desplazados o absorbidos dentro del procedimiento. La lectura registra operaciones de fijación, omisión, banalización, deriva y desactivación por extensión en fragmentos documentales concretos, sin atribuirlas como propiedades inherentes del texto."
+  },
+  "grid": {
+    "operations": [
+      "fijacion",
+      "omision",
+      "banalizacion",
+      "deriva",
+      "desactivacion_extension"
+    ],
+    "operation_definitions": {
+      "fijacion": "Estabilización explícita de una condición, categoría, prueba, procedimiento, sujeto o criterio mediante una forma administrativa determinada.",
+      "omision": "Aspecto pertinente para el objeto de la lectura que queda fuera de formulación, fuera de resolución o sin tratamiento explícito en el fragmento considerado.",
+      "banalizacion": "Integración de una dificultad, asimetría o restricción material como elemento ordinario del procedimiento, sin tratarla como conflicto específico.",
+      "deriva": "Desplazamiento del tratamiento de un problema hacia otra categoría, procedimiento, autoridad, documento o registro administrativo.",
+      "desactivacion_extension": "Absorción de una tensión o restricción mediante la ampliación, precisión o multiplicación de modalidades administrativas que la incorporan a la lógica del dispositivo."
+    },
+    "estimated_dimensions": {
+      "formalization": {
+        "range": [
+          0,
+          1
+        ],
+        "epistemic_status": "estimado",
+        "description": "Coordenada interpretativa continua producida por la lectura para situar de forma relativa el grado de formalización administrativa de cada fragmento. Los valores se distribuyen comparativamente sobre el continuo 0–1 para hacer gráficamente inspeccionables las diferencias internas de la lectura. Expresan una estimación situada y deliberadamente subjetiva; no constituyen una medida objetiva ni una propiedad inherente del texto."
+      }
+    }
+  },
+  "fragments": {
+    "pad2015_a01": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "definicion",
+        "structuring_terms": [
+          "Padrón municipal",
+          "registro administrativo",
+          "vecinos",
+          "prueba de la residencia",
+          "domicilio habitual",
+          "certificaciones",
+          "documento público y fehaciente",
+          "efectos administrativos"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a01",
+            "location": "apartado 1, punto 1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.76,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a02": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "obligada a inscribirse",
+          "Padrón del municipio",
+          "resida habitualmente",
+          "varios municipios",
+          "varios domicilios",
+          "habite durante más tiempo al año"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a02",
+            "location": "apartado 1, punto 2"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.67,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a03": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "menores de edad no emancipados",
+          "mayores incapacitados",
+          "vecindad",
+          "guarda o custodia",
+          "representantes legales",
+          "autorización por escrito"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a03",
+            "location": "apartado 1, punto 3"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.65,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a08": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "veracidad de los datos consignados",
+          "documentos que acrediten su identidad",
+          "domicilio en el municipio"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a08",
+            "location": "apartado 1, punto 8"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.49,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a09": {
+      "status": "residue",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "alta",
+          "modificación",
+          "documentos necesarios",
+          "identidad",
+          "representación",
+          "residencia real",
+          "sin más trámite",
+          "efectos retroactivos"
+        ]
+      },
+      "assignments": [],
+      "residue": {
+        "reason": "Fragmento leído que no se asigna a ninguna operación de la grilla sin forzar la lectura."
+      },
+      "estimates": {
+        "formalization": {
+          "value": 0.73,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a10": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "indicios",
+          "residencia en el municipio",
+          "datos declarados por el ciudadano",
+          "actos de trámite",
+          "veracidad de los datos consignados",
+          "resolución"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a10",
+            "location": "apartado 1, punto 10"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a10",
+            "location": "apartado 1, punto 10"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.59,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a12": {
+      "status": "residue",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "tres meses",
+          "silencio positivo",
+          "empadronado",
+          "resolución estimando o desestimando",
+          "fecha de su solicitud"
+        ]
+      },
+      "assignments": [],
+      "residue": {
+        "reason": "Fragmento leído que no se asigna a ninguna operación de la grilla sin forzar la lectura."
+      },
+      "estimates": {
+        "formalization": {
+          "value": 0.87,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a15": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "datos obligatorios de identificación",
+          "documento de identidad",
+          "en vigor",
+          "documento caducado",
+          "solicitud de renovación",
+          "visado",
+          "Documento Nacional de Identidad",
+          "tarjeta de residencia",
+          "Número de Identificación de Extranjero",
+          "Certificado de Registro de Ciudadano de la Unión",
+          "Registro Central de Extranjeros",
+          "tarjeta de identidad de extranjero",
+          "pasaporte",
+          "pequeño tráfico fronterizo",
+          "situación legal del extranjero",
+          "legalidad o ilegalidad de la residencia",
+          "cédula de inscripción",
+          "apátridas",
+          "títulos de viaje",
+          "documentos provisionales de identidad",
+          "solicitantes de asilo",
+          "menores de edad españoles",
+          "Libro de Familia",
+          "Certificado de nacimiento"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "deriva",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a15",
+            "location": "apartado 2.1"
+          }
+        },
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a15",
+            "location": "apartado 2.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.92,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a16": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "representación legal",
+          "menores de edad e incapacitados",
+          "Derecho Civil",
+          "patria potestad",
+          "Libro de Familia",
+          "Certificado de nacimiento",
+          "separación o divorcio",
+          "guarda y custodia",
+          "resolución judicial",
+          "tutela",
+          "acogimiento",
+          "firma de ambos progenitores",
+          "autorización por escrito",
+          "declaración responsable",
+          "capacidad legal suficiente",
+          "Anexo I",
+          "falsedad documental",
+          "emancipado"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a16",
+            "location": "apartado 2.2.1"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a16",
+            "location": "apartado 2.2.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.88,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a18": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "registro administrativo",
+          "domicilio donde residen",
+          "constancia de un hecho",
+          "concuerden con la realidad",
+          "comprobar la veracidad de los datos consignados",
+          "título que legitime la ocupación de la vivienda",
+          "naturaleza jurídico-privada",
+          "elemento de prueba",
+          "Título de propiedad",
+          "contrato vigente de arrendamiento de vivienda",
+          "recibo de alquiler",
+          "informe de Policía local",
+          "inspección del propio servicio"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "desactivacion_extension",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a18",
+            "location": "apartado 2.3"
+          }
+        },
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a18",
+            "location": "apartado 2.3"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.44,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a19": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "alta",
+          "ocupación de la vivienda",
+          "autorización por escrito",
+          "persona mayor de edad",
+          "empadronada en ese domicilio",
+          "título acreditativo de la posesión efectiva de la vivienda",
+          "procedimiento ordinario",
+          "expediente de baja de oficio"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a19",
+            "location": "apartado 3.1"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a19",
+            "location": "apartado 3.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.77,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a21": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "infraviviendas",
+          "personas sin domicilio",
+          "controversias jurídico-privadas",
+          "titularidad de la vivienda",
+          "chabolas, caravanas, cuevas",
+          "ausencia total de techo",
+          "domicilios válidos",
+          "comunicación al domicilio",
+          "domicilio ficticio",
+          "carece de techo",
+          "Servicios Sociales",
+          "habitualidad de la residencia",
+          "práctica de la notificación",
+          "Albergue municipal"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a21",
+            "location": "apartado 3.3"
+          }
+        },
+        {
+          "operation": "deriva",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a21",
+            "location": "apartado 3.3"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.12,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a22": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "reclusos",
+          "centro penitenciario",
+          "a petición de los mismos",
+          "empadronamiento forzoso",
+          "pena accesoria",
+          "domicilio habitual",
+          "residencia efectiva",
+          "vinculación con el domicilio elegido"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "deriva",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a22",
+            "location": "apartado 3.4"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.37,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a25": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "definicion",
+        "structuring_terms": [
+          "Expedientes de Alta",
+          "altas por cambio de residencia",
+          "altas por nacimiento",
+          "altas por omisión"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a25",
+            "location": "apartado 5.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.81,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a30": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "definicion",
+        "structuring_terms": [
+          "Altas por omisión",
+          "viviendo habitualmente en el municipio",
+          "baja por caducidad",
+          "baja de oficio",
+          "de oficio"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a30",
+            "location": "apartado 5.1.3"
+          }
+        },
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a30",
+            "location": "apartado 5.1.3"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.74,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a32": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "Altas de oficio",
+          "término municipal",
+          "notificación al interesado",
+          "incoación del expediente",
+          "plazo",
+          "justificaciones",
+          "conformidad",
+          "disconformidad",
+          "trámites establecidos reglamentariamente",
+          "ficheros de variaciones mensuales",
+          "baja automática por cambio de residencia"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a32",
+            "location": "apartado 5.1.3.2"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.91,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a33": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "definicion",
+        "structuring_terms": [
+          "Expedientes de Baja",
+          "cambio de residencia",
+          "defunción",
+          "duplicado",
+          "inscripción indebida",
+          "caducidad"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a33",
+            "location": "apartado 5.2"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.83,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a34": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "bajas por cambio de residencia",
+          "expulsión de extranjeros ejecutadas",
+          "retornados voluntarios",
+          "sin más trámite",
+          "menores de 16 años",
+          "expediente de baja de oficio por inscripción indebida",
+          "Padrón de españoles residentes en el extranjero",
+          "Registro de Matrícula",
+          "fecha de la baja",
+          "Dirección General de la Policía",
+          "Servicio Público de Empleo Estatal"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a34",
+            "location": "apartado 5.2.1"
+          }
+        },
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a34",
+            "location": "apartado 5.2.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.56,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a43": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "Bajas de oficio",
+          "inscripción indebida",
+          "requisitos",
+          "audiencia al interesado",
+          "requisito incumplido",
+          "incoación de oficio del expediente",
+          "presunción",
+          "plazo",
+          "alegar",
+          "conformidad",
+          "disconformidad",
+          "baja por cambio de residencia",
+          "sin más trámite",
+          "notificación"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a43",
+            "location": "apartado 5.2.4.1"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a43",
+            "location": "apartado 5.2.4.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.86,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a52": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "ENCSARP",
+          "por exclusión",
+          "ciudadanos comunitarios",
+          "Acuerdo sobre el Espacio Económico Europeo"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a52",
+            "location": "apartado 6, punto 2"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.8,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a55": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "acto de mero trámite",
+          "acto expreso",
+          "voluntad expresa de renovar la inscripción",
+          "ratificación de los datos",
+          "declaración de continuar viviendo en el municipio",
+          "anexo III",
+          "representación",
+          "constancia fidedigna",
+          "anexo IV",
+          "centros penitenciarios",
+          "cambio de domicilio o de datos personales"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a55",
+            "location": "apartado 6, punto 5"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.84,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a57": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "baja por caducidad",
+          "ENCSARP",
+          "dos años",
+          "última renovación expresa",
+          "sin necesidad de audiencia previa"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a57",
+            "location": "apartado 6, punto 7"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a57",
+            "location": "apartado 6, punto 7"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.95,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a59": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "operaciones de control y actualización",
+          "comprobaciones periódicas",
+          "NO_ENCSARP",
+          "Registro Central de Extranjeros",
+          "autorización de residencia caducada",
+          "certificado de inscripción",
+          "confirmación por escrito",
+          "continuidad de su residencia",
+          "comprobación por la policía local",
+          "inspección de funcionarios locales",
+          "modificación por confirmación",
+          "expediente de baja de oficio"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a59",
+            "location": "apartado 7"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a59",
+            "location": "apartado 7"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.66,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a61": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "certificación",
+          "volante de empadronamiento",
+          "acredita fehacientemente",
+          "Secretario del Ayuntamiento",
+          "firmas manuscritas o electrónicas",
+          "carácter puramente informativo",
+          "comprobación de volantes y certificados",
+          "presunción general de exactitud",
+          "revisión de los actos administrativos",
+          "consentimiento de los interesados",
+          "cesión de los datos padronales",
+          "número de personas inscritas",
+          "carácter individual",
+          "firma electrónica",
+          "contraseña personal"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "deriva",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a61",
+            "location": "apartado 8.1.1"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a61",
+            "location": "apartado 8.1.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.83,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a63": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "Supuestos de especial protección",
+          "víctimas de violencia de género",
+          "acogimiento familiar",
+          "representante, legal o voluntario",
+          "patria potestad",
+          "legalidad del acceso",
+          "anotaciones de prevención"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "desactivacion_extension",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a63",
+            "location": "apartado 8.1.3"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.3,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2015_a64": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "cesión de datos padronales",
+          "comunicación de datos a terceros",
+          "Administraciones Públicas",
+          "consentimiento previo del afectado",
+          "respectivas competencias",
+          "residencia",
+          "domicilio",
+          "estadísticas oficiales",
+          "secreto estadístico",
+          "interpretación restrictiva",
+          "Agencia de Protección de Datos"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a64",
+            "location": "apartado 8.2"
+          }
+        },
+        {
+          "operation": "desactivacion_extension",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2015_a64",
+            "location": "apartado 8.2"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.61,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a01": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "definicion",
+        "structuring_terms": [
+          "Padrón municipal",
+          "registro administrativo",
+          "vecinos",
+          "prueba de la residencia",
+          "domicilio habitual",
+          "certificaciones",
+          "documento público y fehaciente",
+          "efectos administrativos"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a01",
+            "location": "apartado 1, punto 1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.76,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a02": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "obligada a inscribirse",
+          "Padrón del municipio",
+          "resida habitualmente",
+          "varios municipios",
+          "varios domicilios",
+          "habite durante más tiempo al año"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a02",
+            "location": "apartado 1, punto 2"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.67,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a03": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "menores de edad no emancipados",
+          "vecindad",
+          "guarda o custodia",
+          "representantes legales",
+          "autorización por escrito",
+          "patria potestad",
+          "lugar de residencia habitual",
+          "consentimiento de ambos progenitores",
+          "autorización judicial",
+          "mayores con discapacidad",
+          "representante voluntario o judicial"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a03",
+            "location": "apartado 1, punto 3"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.79,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a08": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "veracidad de los datos consignados",
+          "documentos que acrediten su identidad",
+          "domicilio en el municipio"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a08",
+            "location": "apartado 1, punto 8"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.49,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a09": {
+      "status": "residue",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "alta",
+          "modificación",
+          "documentos necesarios",
+          "identidad",
+          "representación",
+          "residencia real",
+          "sin más trámite",
+          "efectos retroactivos"
+        ]
+      },
+      "assignments": [],
+      "residue": {
+        "reason": "Fragmento leído que no se asigna a ninguna operación de la grilla sin forzar la lectura."
+      },
+      "estimates": {
+        "formalization": {
+          "value": 0.73,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a10": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "indicios",
+          "residencia en el municipio",
+          "datos declarados por el ciudadano",
+          "actos de trámite",
+          "veracidad de los datos consignados",
+          "resolución"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a10",
+            "location": "apartado 1, punto 10"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a10",
+            "location": "apartado 1, punto 10"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.59,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a12": {
+      "status": "residue",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "tres meses",
+          "silencio positivo",
+          "empadronado",
+          "resolución estimando o desestimando",
+          "fecha de su solicitud"
+        ]
+      },
+      "assignments": [],
+      "residue": {
+        "reason": "Fragmento leído que no se asigna a ninguna operación de la grilla sin forzar la lectura."
+      },
+      "estimates": {
+        "formalization": {
+          "value": 0.87,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a15": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "datos obligatorios de identificación",
+          "documento de identidad",
+          "en vigor",
+          "documento caducado",
+          "solicitud de renovación",
+          "visado",
+          "certificado electrónico",
+          "Sistema de Verificación de Datos de Identidad",
+          "plataformas de intermediación de datos",
+          "Documento Nacional de Identidad",
+          "tarjeta de residencia",
+          "Número de Identificación de Extranjero",
+          "Certificado de Registro de Ciudadano de la Unión",
+          "Registro Central de Extranjeros",
+          "tarjeta de identidad de extranjero",
+          "pasaporte",
+          "pequeño tráfico fronterizo",
+          "situación legal del extranjero",
+          "legalidad o ilegalidad de la residencia",
+          "cédula de inscripción",
+          "apátridas",
+          "títulos de viaje",
+          "Resguardo de presentación de solicitud de protección internacional",
+          "solicitante, en tramitación, de protección internacional",
+          "Ficha de inscripción MENA",
+          "Libro de Familia",
+          "Certificado de nacimiento"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "deriva",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a15",
+            "location": "apartado 2.1"
+          }
+        },
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a15",
+            "location": "apartado 2.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.98,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a16": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "patria potestad",
+          "representación legal",
+          "hijos menores no emancipados",
+          "Libro de Familia",
+          "Certificado de nacimiento",
+          "lugar de residencia habitual",
+          "consentimiento de ambos progenitores",
+          "autorización judicial"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a16",
+            "location": "apartado 2.2.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.91,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a18": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "uno solo de sus progenitores",
+          "consentimiento de ambos",
+          "privado de la patria potestad",
+          "resolución judicial",
+          "autorización judicial",
+          "autorización por escrito"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a18",
+            "location": "apartado 2.2.1.2"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.97,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a21": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "guarda y custodia compartida",
+          "resolución judicial",
+          "mutuo acuerdo",
+          "prueba documental",
+          "empadronamiento",
+          "modificación del domicilio del menor"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a21",
+            "location": "apartado 2.2.1.4"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a21",
+            "location": "apartado 2.2.1.4"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.94,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a27": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "menores mayores de 16 años",
+          "emancipado",
+          "consentimiento de los progenitores",
+          "presunción",
+          "gestor del Padrón",
+          "alta",
+          "datos padronales"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "desactivacion_extension",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a27",
+            "location": "apartado 2.2.4"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.76,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a30": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "registro administrativo",
+          "domicilio donde residen",
+          "constancia de un hecho",
+          "concuerden con la realidad",
+          "comprobar la veracidad de los datos consignados",
+          "título que legitime la ocupación de la vivienda",
+          "naturaleza jurídico-privada",
+          "elemento de prueba",
+          "Título de propiedad",
+          "contrato vigente de arrendamiento de vivienda",
+          "recibo de alquiler",
+          "informe de Policía local",
+          "inspección del propio servicio"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "desactivacion_extension",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a30",
+            "location": "apartado 2.3"
+          }
+        },
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a30",
+            "location": "apartado 2.3"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.48,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a31": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "alta",
+          "ocupación de la vivienda",
+          "autorización por escrito",
+          "persona mayor de edad",
+          "empadronada en ese domicilio",
+          "título acreditativo de la posesión efectiva de la vivienda",
+          "procedimiento ordinario",
+          "expediente de baja de oficio"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a31",
+            "location": "apartado 3.1"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a31",
+            "location": "apartado 3.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.79,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a33": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "infraviviendas",
+          "personas sin domicilio",
+          "controversias jurídico-privadas",
+          "circunstancias físicas, higiénico-sanitarias",
+          "chabolas, caravanas, cuevas",
+          "ausencia total de techo",
+          "domicilios válidos",
+          "comunicación al domicilio",
+          "domicilio ficticio",
+          "carece de techo",
+          "Servicios Sociales",
+          "habitualidad de la residencia",
+          "callejero municipal",
+          "práctica de la notificación"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a33",
+            "location": "apartado 3.3"
+          }
+        },
+        {
+          "operation": "deriva",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a33",
+            "location": "apartado 3.3"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.19,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a34": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "reclusos",
+          "centro penitenciario",
+          "a petición de los mismos",
+          "empadronamiento forzoso",
+          "pena accesoria",
+          "domicilio habitual",
+          "residencia efectiva",
+          "vinculación con el domicilio elegido"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "deriva",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a34",
+            "location": "apartado 3.4"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.38,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a35": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "víctimas de violencia de género",
+          "red de recursos de asistencia social integral",
+          "pisos tutelados",
+          "casas de acogida",
+          "razones de seguridad",
+          "Servicios Sociales",
+          "institución social",
+          "valoración técnica",
+          "habitualidad de la residencia",
+          "callejero municipal",
+          "práctica de la notificación"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a35",
+            "location": "apartado 3.5"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a35",
+            "location": "apartado 3.5"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.87,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a38": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "definicion",
+        "structuring_terms": [
+          "expedientes de alta",
+          "altas por cambio de residencia",
+          "altas por nacimiento",
+          "altas por omisión"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a38",
+            "location": "apartado 5.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.81,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a43": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "definicion",
+        "structuring_terms": [
+          "altas por omisión",
+          "viviendo habitualmente en el municipio",
+          "baja por caducidad",
+          "baja de oficio",
+          "de oficio"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a43",
+            "location": "apartado 5.1.3"
+          }
+        },
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a43",
+            "location": "apartado 5.1.3"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.76,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a45": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "altas de oficio",
+          "término municipal",
+          "notificación al interesado",
+          "incoación del expediente",
+          "plazo",
+          "justificaciones",
+          "conformidad",
+          "disconformidad",
+          "trámites establecidos reglamentariamente",
+          "ficheros de variaciones mensuales",
+          "baja automática por cambio de residencia"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a45",
+            "location": "apartado 5.1.3.2"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.92,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a46": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "definicion",
+        "structuring_terms": [
+          "expedientes de baja",
+          "cambio de residencia",
+          "defunción",
+          "duplicado",
+          "inscripción indebida",
+          "caducidad"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a46",
+            "location": "apartado 5.2"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.83,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a47": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "bajas por cambio de residencia",
+          "expulsión de extranjeros ejecutadas",
+          "retornados voluntarios",
+          "sin más trámite",
+          "menores de 16 años",
+          "expediente de baja de oficio por inscripción indebida",
+          "Padrón de españoles residentes en el extranjero",
+          "Registro de Matrícula",
+          "fecha de la baja",
+          "Dirección General de la Policía",
+          "Servicio Público de Empleo Estatal"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a47",
+            "location": "apartado 5.2.1"
+          }
+        },
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a47",
+            "location": "apartado 5.2.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.59,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a56": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "bajas de oficio",
+          "inscripción indebida",
+          "requisitos",
+          "audiencia al interesado",
+          "requisito incumplido",
+          "incoación de oficio del expediente",
+          "presunción",
+          "plazo",
+          "alegar",
+          "conformidad",
+          "disconformidad",
+          "baja por cambio de residencia",
+          "anuncio publicado",
+          "«Boletín Oficial del Estado»",
+          "número completo de su documento nacional de identidad",
+          "número de identidad de extranjero",
+          "protección de datos",
+          "domicilio en que cause baja",
+          "somera indicación del contenido del acto"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a56",
+            "location": "apartado 5.2.4.1"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a56",
+            "location": "apartado 5.2.4.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.9,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a65": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "ENCSARP",
+          "por exclusión",
+          "ciudadanos comunitarios",
+          "Acuerdo sobre el Espacio Económico Europeo"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a65",
+            "location": "apartado 6, punto 2"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.81,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a68": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "acto de mero trámite",
+          "acto expreso",
+          "voluntad expresa de renovar la inscripción",
+          "ratificación de los datos",
+          "declaración de continuar viviendo en el municipio",
+          "anexo IV",
+          "medios electrónicos habilitados",
+          "documentación acreditativa de la continuidad de su residencia",
+          "representación",
+          "constancia fidedigna",
+          "anexo V",
+          "centros penitenciarios",
+          "cambio de domicilio o de datos personales"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "fijacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a68",
+            "location": "apartado 6, punto 5"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.88,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a70": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "baja por caducidad",
+          "ENCSARP",
+          "dos años",
+          "última renovación expresa",
+          "sin necesidad de audiencia previa"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a70",
+            "location": "apartado 6, punto 7"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a70",
+            "location": "apartado 6, punto 7"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.95,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a72": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "operaciones de control y actualización",
+          "comprobaciones periódicas",
+          "NO_ENCSARP",
+          "Registro Central de Extranjeros",
+          "autorización de residencia caducada",
+          "certificado de inscripción en el RCE",
+          "confirmación por escrito",
+          "continuidad de su residencia",
+          "anexos VI y VII",
+          "comprobación por la policía local",
+          "inspección de funcionarios locales",
+          "comportamiento discriminatorio",
+          "modificación por confirmación",
+          "expediente de baja de oficio"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "desactivacion_extension",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a72",
+            "location": "apartado 7"
+          }
+        },
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a72",
+            "location": "apartado 7"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.7,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a74": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "certificación",
+          "volante de empadronamiento",
+          "acredita fehacientemente",
+          "Secretario del Ayuntamiento",
+          "firmas manuscritas o electrónicas",
+          "actuación administrativa automatizada",
+          "sello electrónico de órgano",
+          "código seguro de verificación",
+          "carácter puramente informativo",
+          "comprobación de volantes y certificados",
+          "presunción general de exactitud",
+          "revisión de los actos administrativos",
+          "consentimiento",
+          "interés legítimo",
+          "juicio de ponderación",
+          "deber de información",
+          "derecho de oposición",
+          "víctimas de violencia de género",
+          "expediente de baja de oficio",
+          "observaciones",
+          "carácter individual",
+          "firma electrónica",
+          "contraseña personal"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "deriva",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a74",
+            "location": "apartado 8.1.1"
+          }
+        },
+        {
+          "operation": "omision",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a74",
+            "location": "apartado 8.1.1"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.86,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a76": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "supuestos de especial protección",
+          "víctimas de violencia de género",
+          "acogimiento familiar",
+          "representante, legal o voluntario",
+          "patria potestad",
+          "legalidad del acceso",
+          "anotaciones de prevención"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "desactivacion_extension",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a76",
+            "location": "apartado 8.1.3"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.36,
+          "status": "estimado"
+        }
+      }
+    },
+    "pad2020_a77": {
+      "status": "assigned",
+      "analysis": {
+        "thematic_category": "condicion_material",
+        "structuring_terms": [
+          "cesión de datos padronales",
+          "comunicación de datos a terceros",
+          "Administraciones Públicas",
+          "consentimiento previo del afectado",
+          "respectivas competencias",
+          "residencia",
+          "domicilio",
+          "estadísticas oficiales",
+          "secreto estadístico",
+          "interpretación restrictiva",
+          "delegados de protección de datos"
+        ]
+      },
+      "assignments": [
+        {
+          "operation": "banalizacion",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a77",
+            "location": "apartado 8.2"
+          }
+        },
+        {
+          "operation": "desactivacion_extension",
+          "epistemic_status": "localizable",
+          "evidence": {
+            "fragment_id": "pad2020_a77",
+            "location": "apartado 8.2"
+          }
+        }
+      ],
+      "estimates": {
+        "formalization": {
+          "value": 0.65,
+          "status": "estimado"
+        }
+      }
+    }
+  },
+  "relations": [
+    {
+      "from": "pad2015_a52",
+      "to": "pad2015_a55",
+      "type": "misma_cadena_procedimental",
+      "epistemic_status": "localizable",
+      "evidence": "a52 delimita la categoría ENCSARP y a55 regula la renovación específica de las inscripciones incluidas en esa categoría."
+    },
+    {
+      "from": "pad2015_a55",
+      "to": "pad2015_a57",
+      "type": "misma_cadena_procedimental",
+      "epistemic_status": "localizable",
+      "evidence": "a55 establece la renovación expresa de los ENCSARP y a57 fija la baja por caducidad cuando esa renovación no se produce dentro del plazo."
+    },
+    {
+      "from": "pad2015_a52",
+      "to": "pad2015_a59",
+      "type": "categoria_complementaria",
+      "epistemic_status": "localizable",
+      "evidence": "a52 delimita los ENCSARP y a59 regula el procedimiento aplicable a los extranjeros que quedan fuera de esa obligación de renovación, identificados como NO_ENCSARP."
+    },
+    {
+      "from": "pad2015_a08",
+      "to": "pad2015_a18",
+      "type": "convergencia_operacion",
+      "epistemic_status": "localizable",
+      "evidence": "Ambos fragmentos articulan facultades municipales de comprobación de la veracidad de datos y del domicilio mediante documentación u otras verificaciones."
+    },
+    {
+      "from": "pad2015_a03",
+      "to": "pad2015_a16",
+      "type": "desarrollo_tematico",
+      "epistemic_status": "localizable",
+      "evidence": "a03 formula la regla general de vecindad de menores y personas representadas; a16 desarrolla el régimen de representación legal aplicable al empadronamiento de menores."
+    },
+    {
+      "from": "pad2015_a19",
+      "to": "pad2015_a21",
+      "type": "asimetria_documental",
+      "epistemic_status": "estimado",
+      "evidence": "Relación inferida entre dos modos distintos de resolver la acreditación del domicilio: autorización y título de ocupación en a19 frente a mecanismos específicos para personas sin domicilio en a21."
+    },
+    {
+      "from": "pad2015_a34",
+      "to": "pad2015_a43",
+      "type": "misma_cadena_procedimental",
+      "epistemic_status": "localizable",
+      "evidence": "Ambos fragmentos pertenecen a la regulación de expedientes de baja y describen procedimientos administrativos de baja por causas distintas."
+    },
+    {
+      "from": "pad2015_a61",
+      "to": "pad2015_a64",
+      "type": "convergencia_tematica",
+      "epistemic_status": "estimado",
+      "evidence": "Relación temática inferida entre dos formas de circulación de información padronal: acreditación mediante certificados o volantes y cesión de datos a terceros."
+    },
+    {
+      "from": "pad2015_a12",
+      "to": "pad2020_a12",
+      "type": "deriva_normativa",
+      "epistemic_status": "documental",
+      "evidence": "El mismo régimen de silencio positivo remite en 2015 al artículo 43 de la Ley 30/1992 y en 2020 al artículo 24 de la Ley 39/2015."
+    },
+    {
+      "from": "pad2015_a16",
+      "to": "pad2020_a16",
+      "type": "deriva_normativa",
+      "epistemic_status": "documental",
+      "evidence": "El tratamiento de la representación legal de menores se reformula en 2020 con referencias normativas y una estructura actualizadas respecto del apartado equivalente de 2015."
+    },
+    {
+      "from": "pad2015_a16",
+      "to": "pad2020_a18",
+      "type": "fragmentacion_reglamentaria",
+      "epistemic_status": "localizable",
+      "evidence": "Un supuesto integrado en 2015 dentro del tratamiento general de la representación de menores aparece en 2020 como apartado específico sobre empadronamiento con uno solo de los progenitores."
+    },
+    {
+      "from": "pad2015_a16",
+      "to": "pad2020_a21",
+      "type": "fragmentacion_reglamentaria",
+      "epistemic_status": "localizable",
+      "evidence": "La problemática de la guarda y custodia tratada dentro del bloque general de 2015 aparece en 2020 desarrollada como apartado específico para la custodia compartida."
+    },
+    {
+      "from": "pad2015_a16",
+      "to": "pad2020_a27",
+      "type": "fragmentacion_reglamentaria",
+      "epistemic_status": "localizable",
+      "evidence": "El tratamiento de la capacidad de actuación de menores se despliega en 2020 en un apartado específico dedicado a mayores de 16 años."
+    },
+    {
+      "from": "pad2015_a15",
+      "to": "pad2020_a15",
+      "type": "deriva_terminologica",
+      "epistemic_status": "documental",
+      "evidence": "El apartado de 2020 incorpora nuevas denominaciones y mecanismos de identificación y verificación, entre ellos el Sistema de Verificación de Datos de Identidad y documentos vinculados a protección internacional y menores extranjeros."
+    },
+    {
+      "from": "pad2015_a21",
+      "to": "pad2020_a33",
+      "type": "deriva_terminologica",
+      "epistemic_status": "documental",
+      "evidence": "El tratamiento de personas sin domicilio se mantiene, mientras la redacción de 2020 amplía y precisa la formulación administrativa del supuesto."
+    },
+    {
+      "from": "pad2015_a43",
+      "to": "pad2020_a56",
+      "type": "deriva_normativa",
+      "epistemic_status": "documental",
+      "evidence": "El procedimiento de baja de oficio se mantiene y la versión de 2020 incorpora precisiones ligadas al marco normativo vigente y a la protección de datos en las notificaciones."
+    },
+    {
+      "from": "pad2015_a55",
+      "to": "pad2020_a68",
+      "type": "deriva_normativa",
+      "epistemic_status": "documental",
+      "evidence": "La renovación expresa de los ENCSARP se mantiene, con actualización de referencias procedimentales y posibilidad de tramitación por medios electrónicos en 2020."
+    },
+    {
+      "from": "pad2015_a59",
+      "to": "pad2020_a72",
+      "type": "deriva_terminologica",
+      "epistemic_status": "documental",
+      "evidence": "El procedimiento de comprobación periódica de residencia se mantiene y la versión de 2020 incorpora de forma explícita una cautela frente a actuaciones discriminatorias."
+    },
+    {
+      "from": "pad2015_a61",
+      "to": "pad2020_a74",
+      "type": "deriva_normativa",
+      "epistemic_status": "documental",
+      "evidence": "La regulación de certificaciones y volantes se mantiene, mientras la versión de 2020 actualiza el marco jurídico de protección de datos y las condiciones de acceso a la información."
+    },
+    {
+      "from": "pad2015_a63",
+      "to": "pad2020_a76",
+      "type": "deriva_normativa",
+      "epistemic_status": "documental",
+      "evidence": "El régimen de especial protección conserva su objeto y en 2020 se formula dentro del marco actualizado de protección de datos."
+    },
+    {
+      "from": "pad2015_a64",
+      "to": "pad2020_a77",
+      "type": "deriva_terminologica",
+      "epistemic_status": "documental",
+      "evidence": "La cesión de datos padronales se mantiene, pero la versión de 2020 actualiza la terminología institucional y el marco de protección de datos."
+    },
+    {
+      "from": "pad2020_a65",
+      "to": "pad2020_a68",
+      "type": "misma_cadena_procedimental",
+      "epistemic_status": "localizable",
+      "evidence": "a65 delimita la categoría ENCSARP y a68 regula la renovación específica de las inscripciones incluidas en esa categoría."
+    },
+    {
+      "from": "pad2020_a68",
+      "to": "pad2020_a70",
+      "type": "misma_cadena_procedimental",
+      "epistemic_status": "localizable",
+      "evidence": "a68 establece la renovación expresa de los ENCSARP y a70 fija la baja por caducidad cuando esa renovación no se produce dentro del plazo."
+    },
+    {
+      "from": "pad2020_a65",
+      "to": "pad2020_a72",
+      "type": "categoria_complementaria",
+      "epistemic_status": "localizable",
+      "evidence": "a65 delimita los ENCSARP y a72 regula la comprobación de residencia de quienes no están sujetos a esa renovación, los NO_ENCSARP."
+    },
+    {
+      "from": "pad2020_a08",
+      "to": "pad2020_a30",
+      "type": "convergencia_operacion",
+      "epistemic_status": "localizable",
+      "evidence": "Ambos fragmentos articulan facultades municipales de comprobación de la veracidad de los datos y de la residencia mediante documentación u otras verificaciones."
+    },
+    {
+      "from": "pad2020_a03",
+      "to": "pad2020_a16",
+      "type": "desarrollo_tematico",
+      "epistemic_status": "localizable",
+      "evidence": "a03 formula la regla general sobre vecindad y residencia de menores; a16 desarrolla el régimen de representación legal aplicable a esos supuestos."
+    },
+    {
+      "from": "pad2020_a31",
+      "to": "pad2020_a33",
+      "type": "asimetria_documental",
+      "epistemic_status": "estimado",
+      "evidence": "Relación inferida entre dos modos distintos de resolver el domicilio padronal: autorización y título de ocupación en a31 frente a mecanismos específicos para infraviviendas y personas sin domicilio en a33."
+    },
+    {
+      "from": "pad2020_a47",
+      "to": "pad2020_a56",
+      "type": "misma_cadena_procedimental",
+      "epistemic_status": "localizable",
+      "evidence": "Ambos fragmentos pertenecen a la regulación de expedientes de baja y describen procedimientos administrativos de baja por causas distintas."
+    },
+    {
+      "from": "pad2020_a74",
+      "to": "pad2020_a77",
+      "type": "convergencia_tematica",
+      "epistemic_status": "estimado",
+      "evidence": "Relación temática inferida entre dos formas de circulación de información padronal: acreditación mediante certificados o volantes y cesión de datos a terceros."
+    }
+  ]
+}
